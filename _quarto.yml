@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Cyber Sciences Events"
+  description: "Piloter des événements scientifiques à l'ère des technologies intellectives"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/samszo/cyberSciencesEvents
+  page-footer:
+    left: "© Cyber Sciences Events"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

@@ -1,0 +1,26 @@
+---
+title: "Cyber Sciences Events"
+---
+
+## Bienvenue
+
+Bienvenue sur le site **Cyber Sciences Events** - un projet dédié à la gestion et au pilotage d'événements scientifiques à l'ère des technologies intellectives.
+
+## À propos du projet
+
+Ce projet explore comment les technologies modernes peuvent transformer l'organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre :
+
+- Les sciences cognitives
+- Les technologies intelligentes
+- L'organisation d'événements
+- La collaboration scientifique
+
+## Objectifs
+
+- Développer des outils pour faciliter l'organisation d'événements scientifiques
+- Explorer l'utilisation des technologies intellectives dans le contexte académique
+- Créer une communauté autour de ces pratiques innovantes
+
+## En savoir plus
+
+Visitez la page [About](about.qmd) pour plus d'informations sur le projet et ses contributeurs.
