@@ -1,0 +1,32 @@
+---
+title: "About"
+---
+
+## À propos de Cyber Sciences Events
+
+**Cyber Sciences Events** est un projet innovant qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l'ère numérique.
+
+## Mission
+
+Notre mission est de développer et partager des méthodes, outils et pratiques pour :
+
+- Organiser efficacement des événements scientifiques
+- Intégrer les technologies intellectives dans la gestion d'événements
+- Faciliter la collaboration entre chercheurs et organisateurs
+- Promouvoir l'innovation dans l'organisation d'événements académiques
+
+## Technologies
+
+Ce projet utilise :
+
+- **Quarto** pour la documentation et le site web
+- **GitHub** pour la gestion du code et la collaboration
+- Des outils modernes de gestion d'événements
+
+## Contribuer
+
+Ce projet est open source et accueille les contributions. Visitez notre [dépôt GitHub](https://github.com/samszo/cyberSciencesEvents) pour en savoir plus.
+
+## Contact
+
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
