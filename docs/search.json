@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Cyber Sciences Events est un projet innovant qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l’ère numérique."
+  },
+  {
+    "objectID": "about.html#à-propos-de-cyber-sciences-events",
+    "href": "about.html#à-propos-de-cyber-sciences-events",
+    "title": "About",
+    "section": "",
+    "text": "Cyber Sciences Events est un projet innovant qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l’ère numérique."
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About",
+    "section": "Mission",
+    "text": "Mission\nNotre mission est de développer et partager des méthodes, outils et pratiques pour :\n\nOrganiser efficacement des événements scientifiques\nIntégrer les technologies intellectives dans la gestion d’événements\nFaciliter la collaboration entre chercheurs et organisateurs\nPromouvoir l’innovation dans l’organisation d’événements académiques"
+  },
+  {
+    "objectID": "about.html#technologies",
+    "href": "about.html#technologies",
+    "title": "About",
+    "section": "Technologies",
+    "text": "Technologies\nCe projet utilise :\n\nQuarto pour la documentation et le site web\nGitHub pour la gestion du code et la collaboration\nDes outils modernes de gestion d’événements"
+  },
+  {
+    "objectID": "about.html#contribuer",
+    "href": "about.html#contribuer",
+    "title": "About",
+    "section": "Contribuer",
+    "text": "Contribuer\nCe projet est open source et accueille les contributions. Visitez notre dépôt GitHub pour en savoir plus."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nPour toute question ou suggestion, n’hésitez pas à ouvrir une issue sur GitHub."
+  },
+  {
+    "objectID": "joMars2026.html",
+    "href": "joMars2026.html",
+    "title": "Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives",
+    "section": "",
+    "text": "Informations Pratiques\nDates : 26 et 27 mars 2026\nLieu : Université Paris 8, Salle A 148\nPublic visé : Chercheurs, ingénieurs de recherche, gestionnaires de colloques, doctorants, étudiants de Master et professionnels de l’édition scientifique.\n\n\nIntroduction\nConformément aux travaux de Maturana & Varela (1980), l’événement scientifique est ici conçu comme un système autopoïétique. Ce cycle illustre le « couplage structurel » entre les intentions humaines et les existences informationnelles des agents artificiels au sein de la Noosphère (Morin, 1991).\n\n\n\n\n\n\ngraph TD\n    subgraph \"Écosystème Autopoïétique\"\n    A[Idéation & Intentions] &lt;--&gt;|Hybridation Symbolique/Connexionniste| B(IA : Cartographie & LLM)\n    B --&gt; C{Énaction de l'AAP & Visuels}\n    C --&gt;|Feedback/Résonance| D[Milieu de Connaissance]\n    D &lt;--&gt;|Crible Visuel & Graphes| E(IA : Expertise & Ontologies)\n    E --&gt; F[Émergence du Programme]\n    F &lt;--&gt;|Orchestration Multi-Agents| G(Agents : n8n vs Mastra)\n    G --&gt; H[Expérience Live / Débats]\n    H &lt;--&gt;|Captation & Inscription| I(IA : Mémoire vive)\n    I --&gt;|Rétroaction & Postérité| A\n    end\n\n    style B fill:#f9f,stroke:#333,stroke-width:2px\n    style E fill:#f9f,stroke:#333,stroke-width:2px\n    style G fill:#f9f,stroke:#333,stroke-width:2px\n    style I fill:#f9f,stroke:#333,stroke-width:2px\n\n\n\n\nFigure 1: Écosystème Autopoïétique de l’Événement Scientifique\n\n\n\n\n\nNote de Cadrage\n\n\n\n\n\n\nNote\n\n\n\nCes journées d’études interrogent la mutation profonde des pratiques de recherche face à l’émergence des technologies intellectives. Comme le soulignait Ertzscheid (2011), l’indexation n’est plus un simple archivage mais un mode de visibilité : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s’inscrit dans la « raison numérique » décrite par Bruno Bachimont (2004), où le savoir devient indissociable de sa manipulation calculable.\n\n\nL’enjeu central est de penser la dialectique entre deux paradigmes technologiques :\nL’IA Symbolique (Top-Down) : Celle de la règle, de la catégorie et de l’ontologie (Schmid & Mambrini-Doudet, 2019).\nL’IA Connexionniste (Bottom-Up) : Celle des réseaux de neurones (LLM, modèles de diffusion), apportant la fluidité sémantique et visuelle.\nAu sens de l’Éthique de Spinoza, cette hybridation vise à augmenter notre puissance d’agir (potentia agendi). L’événement devient un processus d’énaction où le diagramme agit comme un crible visuel (Szoniecky, 2012) permettant de discerner des structures stables dans des flux d’informations fluides, transformant la « raison » en une véritable « résonance » collective.\nJournée 1 : De l’Étincelle à la Sélection (Phase Amont)\nAccueil & Introduction (09h00)\nOuverture : L’événement comme écosystème de connaissances : de l’autopoïèse au design sémantique.\nLe conflit des paradigmes : IA symbolique vs IA connexionniste. Pourquoi la science a-t-elle besoin de cette hybridation ?\nSession 1 : L’Idéation et la Raison Numérique (09h30)\nCartographie sémantique : Utilisation de thésaurus (Symbolique) pour cadrer la génération créative des LLM (Connexionniste).\nRédaction assistée : Production d’une « inscription calculable » valide (Bachimont, 2010).\nNet-activisme : Mobilisation des « tribus » académiques dans l’espace numérique (Maffesoli, 2014).\nSession 2 : Le Diagramme comme Crible Visuel (11h15)\nVisualisation de l’écosystème : Le diagramme comme pont entre la structure et l’interprétation humaine.\nDesign sémantique : Utiliser les graphes pour stimuler l’intuition et la découverte.\nSession 3 : Le Workflow des Soumissions (14h00)\nClassification hybride : Machine learning pour le tri et ontologies pour la vérification thématique rigoureuse.\nSingularité et automatisation : Comme le note Jean-Max Noyer (2012), l’enjeu est de ne pas laisser le connexionnisme écraser la « singularité du geste de recherche ».\nJournée 2 : De la Logistique à la Mémoire (Phase Aval)\nSession 4 : Architecture Diagrammatique et Puissance d’Agir (09h00)\nOptimisation combinatoire : Le programme comme agencement de corps et d’idées.\nFluidité numérique : « La révolution numérique transforme la matière de la construction en fluide » (Mercuriali, 2018).\nSession 5 : Logistique Prédictive et Écosystèmes Matériels (10h30)\nFlux et empreinte : Data-driven logistics et règles de durabilité.\nSession 6 : L’Expérience « Live » et la Résonance des Corps (13h30)\nAgents et Noosphère : Les agents intelligents comme « existences informationnelles » (Latour, 2012) et médiateurs de la « sociabilité du moment » (Guattari, 1992).\nRaisonner-Résonner : Couplage structurel entre transcription (Connexionniste) et indexation sémantique (Symbolique).\nSession 7 : La Publication et la Mémoire Numérique (15h00)\nPhylogenèse et pérennité : Réflexion sur la « mémoire informatique » (Bachimont, 2004) et la stabilité du sens.\nActes augmentés : Du compte-rendu figé au diagramme de connaissances vivant.\nJournée 3 : Le « Lab » des Organisateurs (Ateliers de Bricolage)\nAtelier A : « Prompt Engineering » et Raisonnement Logique (09h00)\nBricolage : Apprendre à utiliser des structures logiques (Chain-of-Thought) pour piloter des modèles connexionnistes.\nAtelier B : Workflows Multi-Agents et Noosphère (10h30)\nBricolage : Comparaison pratique entre n8n (Symbolique/Déterministe) et Mastra (Agentic/Framework).\nExercice : Créer une boucle de rétroaction récursive (Morin) où un agent « critique » évalue la production d’un agent « générateur ».\nAtelier C : Design de Graphes et Crible Visuel (13h30)\nBricolage : Transformer des proximités statistiques en diagramme de relations explicites avec Gephi, Cosma ou Obsidian. Utilisation de la visualisation comme crible pour équilibrer les sessions du colloque.\nAtelier D : Analyse de traces et Inscription Numérique (15h00)\nBricolage : Extraire des entités nommées (Symbolique) depuis des transcriptions audio (Connexionniste) pour construire des actes augmentés selon la méthode de Latour & Szoniecky.\nAtelier E : Design Algorithmique — Génération d’Affiches (16h30)\nObjectif : Matérialiser l’identité visuelle du colloque à partir de son ADN sémantique via un « Prompt Hybride ».\nBibliographie et Notes {.unnumbered}\nBachimont, B. (2004). Arts et sciences du numérique : ingénierie des connaissances et critique du numérique. Hermès-Science.\nBachimont, B. (2010). Le sens de la technique : le numérique et le calcul. Encre marine.\nBentayeb, F., Boussaid, O., & Darmont, J. (2005). EDA 2005.\nDeleuze, G. (1990). « Post-scriptum sur les sociétés de contrôle ». L’Autre journal, n° 1.\nDeleuze, G., & Guattari, F. (1980). Mille Plateaux. Les Éditions de Minuit.\nErtzscheid, O. (2011). Qu’y aura-t-il demain sous nos moteurs ?.\nGuattari, F. (1992). Chaosmose. Galilée.\nLatour, B. (2012). Enquête sur les modes d’existence. La Découverte.\nLatour, B., et al. (2013). « Le tout est toujours plus petit que ses parties ». Réseaux, Vol. 31, n° 177.\nLévy, P. (1990). Les technologies intellectuelles. La Découverte.\nMaffesoli, M. (2014). « Net-activisme ». Sociétés, n° 123.\nMaturana, H. R., & Varela, F. J. (1980). Autopoiesis and Cognition.\nMercuriali, A. (2018). « La révolution numérique transforme la matière… ». The Conversation.\nMorin, E. (1991). La Méthode, tome 4 : Les Idées (La Noosphère). Le Seuil.\nNoyer, J.-M. (2012) : Le capitalisme cognitif et la nouvelle économie des savoirs.\nRicœur, P. (2017) : L’éthique, entre le mal et le pire.\nSchmid, A.-F., & Mambrini-Doudet, P. (2019) : 2. Thésaurus.\nSpinoza, B. (1677) : Éthique.\nSzoniecky, S. (2012) : Écosystèmes de connaissances (HDR)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cyber Sciences Events",
+    "section": "",
+    "text": "Bienvenue sur le site Cyber Sciences Events - un projet dédié à la gestion et au pilotage d’événements scientifiques à l’ère des technologies intellectives."
+  },
+  {
+    "objectID": "index.html#bienvenue",
+    "href": "index.html#bienvenue",
+    "title": "Cyber Sciences Events",
+    "section": "",
+    "text": "Bienvenue sur le site Cyber Sciences Events - un projet dédié à la gestion et au pilotage d’événements scientifiques à l’ère des technologies intellectives."
+  },
+  {
+    "objectID": "index.html#à-propos-du-projet",
+    "href": "index.html#à-propos-du-projet",
+    "title": "Cyber Sciences Events",
+    "section": "À propos du projet",
+    "text": "À propos du projet\nCe projet explore comment les technologies modernes peuvent transformer l’organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre :\n\nLes sciences cognitives\nLes technologies intellectives\nL’organisation d’événements\nLa collaboration scientifique"
+  },
+  {
+    "objectID": "index.html#objectifs",
+    "href": "index.html#objectifs",
+    "title": "Cyber Sciences Events",
+    "section": "Objectifs",
+    "text": "Objectifs\n\nDévelopper des outils pour faciliter l’organisation d’événements scientifiques\nExplorer l’utilisation des technologies intellectives dans le contexte académique\nCréer une communauté autour de ces pratiques innovantes"
+  },
+  {
+    "objectID": "index.html#en-savoir-plus",
+    "href": "index.html#en-savoir-plus",
+    "title": "Cyber Sciences Events",
+    "section": "En savoir plus",
+    "text": "En savoir plus\nVisitez la page About pour plus d’informations sur le projet et ses contributeurs."
+  }
+]

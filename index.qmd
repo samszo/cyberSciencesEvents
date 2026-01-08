@@ -11,7 +11,7 @@ Bienvenue sur le site **Cyber Sciences Events** - un projet dédié à la gestio
 Ce projet explore comment les technologies modernes peuvent transformer l'organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre :
 
 - Les sciences cognitives
-- Les technologies intelligentes
+- Les technologies intellectives
 - L'organisation d'événements
 - La collaboration scientifique
 

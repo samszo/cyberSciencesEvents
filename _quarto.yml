@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "Cyber Sciences Events"
@@ -8,9 +8,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Accueil
       - href: about.qmd
         text: About
+      - href: joMars2026.qmd
+        text: "Journées d'études : Mars 2026"
     right:
       - icon: github
         href: https://github.com/samszo/cyberSciencesEvents
