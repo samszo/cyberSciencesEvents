@@ -44,7 +44,7 @@ Public visé : Chercheurs, ingénieurs de recherche, gestionnaires de colloques,
 
 ## Introduction
 
-Ces deux journées d'études interrogent les mutations profondes des pratiques de recherche face à l'émergence des **technologies intellectives** : <https://www.istegroup.com/fr/series/technologies-intellectives/>.
+Ces deux journées d'études interrogent les mutations profondes des pratiques de recherche face à l'émergence de nouvelles **technologies intellectives** (<https://www.istegroup.com/fr/series/technologies-intellectives/>).
 
 Plus particulièrement, nous nous interrogerons sur ces technologies et nous les expérimenterons dans le cadre de la conception, de l'organisation et de la diffusion d'événements scientifiques. Nous prolongeons ainsi les réflexions menées par le laboratoire Paragraphe à travers plusieurs initiatives :
 
@@ -64,7 +64,7 @@ Conformément aux travaux de Maturana & Varela [@maturana1994], les événements
 
 ## Problématiques
 
-Comme le soulignait Olivier Ertzscheid [@ertzscheid2011], l'indexation n'est plus un simple archivage mais un mode de visibilité : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s'inscrit dans la « raison numérique » décrite par Bruno Bachimont [@bachimont2020], où le savoir devient indissociable de sa manipulation calculable.
+Comme le souligne[@azeroual2025] le déploiement de nouveaux environnements numériques dans la recherche doit s'accompagner d'une réflexion éthique : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s'inscrit dans la « raison numérique » décrite par Bruno Bachimont [@bachimont2020], où le savoir devient indissociable de sa manipulation calculable.
 
 L'enjeu est double et renvoie aux deux pôles des humanités numériques [@doueihi2015] :
 
@@ -197,7 +197,7 @@ La première journée est consacrée aux discussions théoriques et technologiqu
     -   Session 6 : L'Expérience « Live » et la Résonance des Corps
 
         -   Agents et Noosphère : Les agents intelligents comme « manières d'être » [@latour2012] et médiateurs de la « refonte des pratiques sociales » [@guattari2001].
-        
+
         -   Raisonner-Résonner : Couplage structurel entre indexations sémantiques dans la logique du premier ordre [@badiou2018] et médiations intuitives dans les rêveries inspirantes [@bachelard1994].
 
     -   Session 7 : La Publication et la Mémoire Numérique
