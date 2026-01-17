@@ -34,7 +34,7 @@ format:
     number-sections: false
 ---
 
-# Informations Pratiques {.unnumbered}
+## Informations Pratiques
 
 Dates : 26 et 27 mars 2026
 
@@ -42,171 +42,194 @@ Lieu : Université Paris 8, Salle A 148
 
 Public visé : Chercheurs, ingénieurs de recherche, gestionnaires de colloques, doctorants, étudiants de Master et professionnels de l'édition scientifique.
 
-# Introduction
+## Introduction
 
-A la suite des événements scientifiques organisés par le laboratoire Paragraphe :
+Ces deux journées d'études interrogent les mutations profondes des pratiques de recherche face à l'émergence des **technologies intellectives** : <https://www.istegroup.com/fr/series/technologies-intellectives/>.
+
+Plus particulièrement, nous nous interrogerons sur ces technologies et nous les expérimenterons dans le cadre de la conception, de l'organisation et de la diffusion d'événements scientifiques. Nous prolongeons ainsi les réflexions menées par le laboratoire Paragraphe à travers plusieurs initiatives :
 
 -   3AI : Art In The Age of AI,
 
-    -   2023 La Louvière, Bruxelles, Belgique
+    -   2023 La Louvière, Bruxelles, Belgique.
 
-    -   2024 Ionian Academy, Corfu, Grèce
+    -   2024 Ionian Academy, Corfu, Grèce <https://3ai-24.sciencesconf.org>.
 
-    -   2025 ESAAix, Aix-en-Provence, France.
+    -   2025 ESAAix, Aix-en-Provence, France <https://3ai25.sciencesconf.org>.
 
--   Atelier pédagogique : utilisation de Ollama et AnythingLLM : <https://samszo.github.io/ConfErrance/iaSem1.html>
+-   2025 Atelier pédagogique : utilisation de Ollama et AnythingLLM : <https://samszo.github.io/ConfErrance/iaSem1.html>
 
--   \
-    aux travaux de recherchela Conformément aux travaux de Maturana & Varela (1980), l'événement scientifique est ici conçu comme un système autopoïétique. Ce cycle illustre le « couplage structurel » entre les intentions humaines et les existences informationnelles des agents artificiels au sein de la Noosphère (Morin, 1991).
+-   2025 01Design : Design de l'intelligence, Montpellier, France <https://01design13.sciencesconf.org/>
+
+Conformément aux travaux de Maturana & Varela [@maturana1994], les événements scientifiques comme les conférences, les colloques, les séminaires et autres journées d'études sont ici pensés comme des systèmes autopoïétiques où se déploient de nouveaux « couplages structurels » entre les intentions humaines et les existences informationnelles au sein d'une Noosphère [@morin1995]. De nouveaux écosystèmes de connaissances se déploient dans ces environnements sociaux numériques où les "existences informationnelles" subissent, réagissent et interagissent les unes avec les autres. Pour décrire, analyser et comprendre ces environnements, nous devons tout à la fois et en même temps : concevoir, expérimenter, analyser et critiquer. C'est l'objet de ces deux journées d'études qui mélangent séances de présentations théoriques, bricolages pratiques et tables rondes.
+
+## Problématiques
+
+Comme le soulignait Olivier Ertzscheid [@ertzscheid2011], l'indexation n'est plus un simple archivage mais un mode de visibilité : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s'inscrit dans la « raison numérique » décrite par Bruno Bachimont [@bachimont2020], où le savoir devient indissociable de sa manipulation calculable.
+
+L'enjeu est double et renvoie aux deux pôles des humanités numériques [@doueihi2015] :
+
+-   Penser la dialectique entre deux paradigmes technologiques :
+
+    -   L'IA Symbolique : celle des règles, des catégories et des ontologies définies collectivement lors de processus d'élaboration du consensus [@schmid2019].
+
+    -   L'IA Connexionniste : Celle des réseaux de neurones (LLM, modèles de diffusion), apportant la fluidité sémantique et visuelle par une délégation à la machine des pouvoirs de discerner, raisonner et agir [@lecun2024].
+
+-   Elaborer une éthique de la discussion [@habermas2013] entre des modes d'existences différents [@latour2012] comme les des agents artificiels, les chercheurs, les étudiants, les éditeurs...
+
+Pour mener à bien ce travail collectif de recherche, nous nous basons sur une description des flux infocommunicationnels liés à la gestion d'un événement scientifique afin d'en définir les différents aspects qui devront être pris en compte. Le diagramme suivant présente les étapes séquentielles et les boucles de décision nécessaires à l'organisation d'un colloque ou d'une journée d'études, en intégrant les dimensions administratives, scientifiques et techniques.
 
 ```{mermaid}
 %%| label: fig-autopoiese
-%%| fig-cap: "Écosystème Autopoïétique de l'Événement Scientifique"
+%%| fig-cap: "Flux info-communicationel d'un événement scientifique"
 graph TD
-    subgraph "Écosystème Autopoïétique"
-    A[Idéation & Intentions] <-->|Hybridation Symbolique/Connexionniste| B(IA : Cartographie & LLM)
-    B --> C{Énaction de l'AAP & Visuels}
-    C -->|Feedback/Résonance| D[Milieu de Connaissance]
-    D <-->|Crible Visuel & Graphes| E(IA : Expertise & Ontologies)
-    E --> F[Émergence du Programme]
-    F <-->|Orchestration Multi-Agents| G(Agents : n8n vs Mastra)
-    G --> H[Expérience Live / Débats]
-    H <-->|Captation & Inscription| I(IA : Mémoire vive)
-    I -->|Rétroaction & Postérité| A
+    %% Phase de Conception
+    subgraph Phase_1 [CONCEPTION & CADRAGE]
+        A[Définition de la thématique] --> B[Constitution du Comité Scientifique et d'Organisation]
+        B --> C[Établissement du budget et recherche de financements]
+        C --> D[Choix des dates et du lieu / Plateforme hybride]
     end
 
-    style B fill:#f9f,stroke:#333,stroke-width:2px
-    style E fill:#f9f,stroke:#333,stroke-width:2px
-    style G fill:#f9f,stroke:#333,stroke-width:2px
-    style I fill:#f9f,stroke:#333,stroke-width:2px
+    %% Phase de Lancement
+    subgraph Phase_2 ["APPEL À COMMUNICATIONS"]
+        D --> E["Rédaction de l'Appel à Communications - AAP"]
+        E --> F["Diffusion via listes de diffusion et réseaux sociaux"]
+        F --> G["Ouverture de la plateforme de dépôt"]
+    end
+
+    %% Phase d'Évaluation
+    subgraph Phase_3 [SÉLECTION & EXPERTISE]
+        G --> H{Réception des soumissions}
+        H --> I[Assignation des évaluateurs - Double aveugle]
+        I --> J{Évaluation scientifique}
+        J -->|Accepté| K[Notification aux auteurs]
+        J -->|Refusé| L[Notification de refus]
+        J -->|À modifier| M[Navette avec les auteurs]
+        M --> J
+    end
+
+    %% Phase de Programmation
+    subgraph Phase_4 ["PROGRAMMATION & LOGISTIQUE"]
+        K --> N[Réception des versions finales et inscriptions]
+        N --> O[Élaboration du programme définitif - Sessions/Keynotes]
+        O --> P[Logistique : Traiteur, technique, badges, hébergement]
+    end
+
+    %% Phase de Réalisation
+    subgraph Phase_5 [L'ÉVÉNEMENT - LIVE]
+        P --> Q[Accueil des participants]
+        Q --> R[Sessions scientifiques et débats]
+        R --> S[Captation audio/vidéo et réseaux sociaux en direct]
+    end
+
+    %% Phase de Valorisation
+    subgraph Phase_6 [VALORISATION & MÉMOIRE]
+        S --> T[Collecte des retours et remerciements]
+        T --> U[Édition et publication des actes - HAL/Revues]
+        U --> V[Archivage pérenne des traces numériques]
+    end
+
+    %% Styles
+    style Phase_1 fill:#f5f5f5,stroke:#333,stroke-dasharray: 5 5
+    style Phase_2 fill:#e1f5fe,stroke:#01579b
+    style Phase_3 fill:#e1f5fe,stroke:#01579b
+    style Phase_4 fill:#e1f5fe,stroke:#01579b
+    style Phase_5 fill:#fff9c4,stroke:#fbc02d
+    style Phase_6 fill:#e1f5fe,stroke:#01579b
+    style J fill:#ffecb3,stroke:#ffa000
 ```
 
-Note de Cadrage
+### Description des étapes clés
 
-::: callout-note
-Ces journées d'études interrogent la mutation profonde des pratiques de recherche face à l'émergence des technologies intellectives. Comme le soulignait Ertzscheid (2011), l'indexation n'est plus un simple archivage mais un mode de visibilité : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s'inscrit dans la « raison numérique » décrite par Bruno Bachimont (2004), où le savoir devient indissociable de sa manipulation calculable.
-:::
+-   **Conception & Cadrage** : C'est l'étape où l'on définit l'identité scientifique de l'événement et sa viabilité économique.
 
-L'enjeu central est de penser la dialectique entre deux paradigmes technologiques :
+-   **Appel à Communications** : La phase de "Net-activisme" où l'on sollicite la communauté pour irriguer la noosphère du projet.
 
-L'IA Symbolique (Top-Down) : Celle de la règle, de la catégorie et de l'ontologie (Schmid & Mambrini-Doudet, 2019).
+-   **Sélection & Expertise** : Le cœur du processus scientifique (le crible) garantissant la qualité des échanges.
 
-L'IA Connexionniste (Bottom-Up) : Celle des réseaux de neurones (LLM, modèles de diffusion), apportant la fluidité sémantique et visuelle.
+-   **Logistique & Programmation** : La transformation du savoir en un événement fluide et pertinent.
 
-Au sens de l'Éthique de Spinoza, cette hybridation vise à augmenter notre puissance d'agir (potentia agendi). L'événement devient un processus d'énaction où le diagramme agit comme un crible visuel (Szoniecky, 2012) permettant de discerner des structures stables dans des flux d'informations fluides, transformant la « raison » en une véritable « résonance » collective.
+-   **L'Événement (Live)** : Le moment de résonance des corps et des esprits.
 
-Journée 1 : De l'Étincelle à la Sélection (Phase Amont)
+-   **Valorisation** : La phase de phylogenèse numérique où les traces deviennent des savoirs stabilisés et archivés.
 
-Accueil & Introduction (09h00)
+## Programme prévisionnel
 
-Ouverture : L'événement comme écosystème de connaissances : de l'autopoïèse au design sémantique.
+La première journée est consacrée aux discussions théoriques et technologiques. Nous aborderons les points suivants (liste non exhaustive) :
 
-Le conflit des paradigmes : IA symbolique vs IA connexionniste. Pourquoi la science a-t-elle besoin de cette hybridation ?
+-   Journée 1 : jeudi 26 mars
 
-Session 1 : L'Idéation et la Raison Numérique (09h30)
+    -   Accueil & Introduction
 
-Cartographie sémantique : Utilisation de thésaurus (Symbolique) pour cadrer la génération créative des LLM (Connexionniste).
+        -   Ouverture : L'événement comme écosystème de connaissances : de l'autopoïèse au design sémantique [@szoniecky2024].
 
-Rédaction assistée : Production d'une « inscription calculable » valide (Bachimont, 2010).
+        -   Le conflit des paradigmes : IA symbolique vs IA connexionniste. Pourquoi la science a-t-elle besoin de cette hybridation ?
 
-Net-activisme : Mobilisation des « tribus » académiques dans l'espace numérique (Maffesoli, 2014).
+    -   Session 1 : L'Idéation et la Raison Numérique
 
-Session 2 : Le Diagramme comme Crible Visuel (11h15)
+        -   Cartographie sémantique : Utilisation de thésaurus (Symbolique) pour cadrer la génération créative des LLM (Connexionniste).
 
-Visualisation de l'écosystème : Le diagramme comme pont entre la structure et l'interprétation humaine.
+        -   Rédaction assistée : Production d'une « inscription calculable » valide [@bachimont2020].
 
-Design sémantique : Utiliser les graphes pour stimuler l'intuition et la découverte.
+        -   Net-activisme : Mobilisation des « tribus » académiques dans l'espace numérique [@pélissier2021].
 
-Session 3 : Le Workflow des Soumissions (14h00)
+    -   Session 2 : Le Diagramme comme Crible Visuel
 
-Classification hybride : Machine learning pour le tri et ontologies pour la vérification thématique rigoureuse.
+        -   Visualisation de l'écosystème : Le diagramme comme pont entre la structure et l'interprétation humaine.
 
-Singularité et automatisation : Comme le note Jean-Max Noyer (2012), l'enjeu est de ne pas laisser le connexionnisme écraser la « singularité du geste de recherche ».
+        -   Design sémantique : Utiliser les graphes pour stimuler l'intuition et la découverte.
 
-Journée 2 : De la Logistique à la Mémoire (Phase Aval)
+    -   Session 3 : Le Workflow des Soumissions
 
-Session 4 : Architecture Diagrammatique et Puissance d'Agir (09h00)
+        -   Classification hybride : Machine learning pour le tri et ontologies pour la vérification thématique rigoureuse.
 
-Optimisation combinatoire : Le programme comme agencement de corps et d'idées.
+        -   Singularité et automatisation : l'enjeu est de ne pas laisser le connexionnisme écraser la « singularité du geste de recherche ».
 
-Fluidité numérique : « La révolution numérique transforme la matière de la construction en fluide » (Mercuriali, 2018).
+    -   Session 4 : Architecture Diagrammatique et Puissance d'Agir
 
-Session 5 : Logistique Prédictive et Écosystèmes Matériels (10h30)
+        -   Optimisation combinatoire : Le programme comme agencement de corps et d'idées.
 
-Flux et empreinte : Data-driven logistics et règles de durabilité.
+        -   Fluidité numérique : « La révolution numérique transforme la matière de la construction en fluide » [@mercuriali2018].
 
-Session 6 : L'Expérience « Live » et la Résonance des Corps (13h30)
+    -   Session 5 : Logistique Prédictive et Écosystèmes Matériels
 
-Agents et Noosphère : Les agents intelligents comme « existences informationnelles » (Latour, 2012) et médiateurs de la « sociabilité du moment » (Guattari, 1992).
+        -   Flux et empreinte : « Data-driven logistics » et règles de durabilité.
 
-Raisonner-Résonner : Couplage structurel entre transcription (Connexionniste) et indexation sémantique (Symbolique).
+    -   Session 6 : L'Expérience « Live » et la Résonance des Corps
 
-Session 7 : La Publication et la Mémoire Numérique (15h00)
+        -   Agents et Noosphère : Les agents intelligents comme « manières d'être » [@latour2012] et médiateurs de la « refonte des pratiques sociales » [@guattari2001].
+        
+        -   Raisonner-Résonner : Couplage structurel entre indexations sémantiques dans la logique du premier ordre [@badiou2018] et médiations intuitives dans les rêveries inspirantes [@bachelard1994].
 
-Phylogenèse et pérennité : Réflexion sur la « mémoire informatique » (Bachimont, 2004) et la stabilité du sens.
+    -   Session 7 : La Publication et la Mémoire Numérique
 
-Actes augmentés : Du compte-rendu figé au diagramme de connaissances vivant.
+        -   Phylogenèse et pérennité : Réflexion sur la « mémoire informatique » et la stabilité du sens [@µ2015].
 
-Journée 3 : Le « Lab » des Organisateurs (Ateliers de Bricolage)
+        -   Actes augmentés : Du compte-rendu figé au diagrammes de connaissances vivants.
 
-Atelier A : « Prompt Engineering » et Raisonnement Logique (09h00)
+La deuxième journée est consacrée aux bricolages et aux expérimentations des technologies interlectives. Nous aborderons les points suivants (liste non exhaustive) :
 
-Bricolage : Apprendre à utiliser des structures logiques (Chain-of-Thought) pour piloter des modèles connexionnistes.
+-   Journée 1 : jeudi 26 mars
 
-Atelier B : Workflows Multi-Agents et Noosphère (10h30)
+    -   Atelier A : « Prompt Engineering » et Raisonnement Logique
 
-Bricolage : Comparaison pratique entre n8n (Symbolique/Déterministe) et Mastra (Agentic/Framework).
+        -   Bricolage : Apprendre à utiliser des structures logiques (Chain-of-Thought) pour piloter des modèles connexionnistes.
 
-Exercice : Créer une boucle de rétroaction récursive (Morin) où un agent « critique » évalue la production d'un agent « générateur ».
+    -   Atelier B : Workflows Multi-Agents et Noosphère
 
-Atelier C : Design de Graphes et Crible Visuel (13h30)
+        -   Bricolage : Comparaison pratique entre n8n (Symbolique/Déterministe) et Mastra (Agentic/Framework).
 
-Bricolage : Transformer des proximités statistiques en diagramme de relations explicites avec Gephi, Cosma ou Obsidian. Utilisation de la visualisation comme crible pour équilibrer les sessions du colloque.
+        -   Exercice : Créer une boucle de rétroaction récursive où un agent « critique » évalue la production d'un agent « générateur ».
 
-Atelier D : Analyse de traces et Inscription Numérique (15h00)
+    -   Atelier C : Design de Graphes et Crible Visuel
 
-Bricolage : Extraire des entités nommées (Symbolique) depuis des transcriptions audio (Connexionniste) pour construire des actes augmentés selon la méthode de Latour & Szoniecky.
+        -   Bricolage : Transformer des proximités statistiques en diagramme de relations explicites avec Gephi, Cosma ou Obsidian. Utilisation de la visualisation comme crible pour équilibrer les sessions du colloque.
 
-Atelier E : Design Algorithmique — Génération d'Affiches (16h30)
+    -   Atelier D : Analyse de traces et Inscription Numérique
 
-Objectif : Matérialiser l'identité visuelle du colloque à partir de son ADN sémantique via un « Prompt Hybride ».
+        -   Bricolage : Extraire des entités nommées (Symbolique) depuis des transcriptions audio (Connexionniste) pour construire des actes augmentés.
 
-Bibliographie et Notes {.unnumbered}
+    -   Atelier E : Design Algorithmique — Génération d'Affiches
 
-Bachimont, B. (2004). Arts et sciences du numérique : ingénierie des connaissances et critique du numérique. Hermès-Science.
+        -   Objectif : Matérialiser l'identité visuelle du colloque à partir de son ADN sémantique via un « Prompt Hybride ».
 
-Bachimont, B. (2010). Le sens de la technique : le numérique et le calcul. Encre marine.
-
-Bentayeb, F., Boussaid, O., & Darmont, J. (2005). EDA 2005.
-
-Deleuze, G. (1990). « Post-scriptum sur les sociétés de contrôle ». L’Autre journal, n° 1.
-
-Deleuze, G., & Guattari, F. (1980). Mille Plateaux. Les Éditions de Minuit.
-
-Ertzscheid, O. (2011). Qu’y aura-t-il demain sous nos moteurs ?.
-
-Guattari, F. (1992). Chaosmose. Galilée.
-
-Latour, B. (2012). Enquête sur les modes d'existence. La Découverte.
-
-Latour, B., et al. (2013). « Le tout est toujours plus petit que ses parties ». Réseaux, Vol. 31, n° 177.
-
-Lévy, P. (1990). Les technologies intellectuelles. La Découverte.
-
-Maffesoli, M. (2014). « Net-activisme ». Sociétés, n° 123.
-
-Maturana, H. R., & Varela, F. J. (1980). Autopoiesis and Cognition.
-
-Mercuriali, A. (2018). « La révolution numérique transforme la matière... ». The Conversation.
-
-Morin, E. (1991). La Méthode, tome 4 : Les Idées (La Noosphère). Le Seuil.
-
-Noyer, J.-M. (2012) : Le capitalisme cognitif et la nouvelle économie des savoirs.
-
-Ricœur, P. (2017) : L’éthique, entre le mal et le pire.
-
-Schmid, A.-F., & Mambrini-Doudet, P. (2019) : 2. Thésaurus.
-
-Spinoza, B. (1677) : Éthique.
-
-Szoniecky, S. (2012) : Écosystèmes de connaissances (HDR).
+## Bibliographie
