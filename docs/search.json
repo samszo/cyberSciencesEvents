@@ -2,42 +2,42 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "A propos",
     "section": "",
-    "text": "Cyber Sciences Events est un projet innovant qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l’ère numérique."
+    "text": "Cyber Sciences Events est un projet qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l’ère numérique."
   },
   {
     "objectID": "about.html#à-propos-de-cyber-sciences-events",
     "href": "about.html#à-propos-de-cyber-sciences-events",
-    "title": "About",
+    "title": "A propos",
     "section": "",
-    "text": "Cyber Sciences Events est un projet innovant qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l’ère numérique."
+    "text": "Cyber Sciences Events est un projet qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l’ère numérique."
   },
   {
     "objectID": "about.html#mission",
     "href": "about.html#mission",
-    "title": "About",
+    "title": "A propos",
     "section": "Mission",
-    "text": "Mission\nNotre mission est de développer et partager des méthodes, outils et pratiques pour :\n\nOrganiser efficacement des événements scientifiques\nIntégrer les technologies intellectives dans la gestion d’événements\nFaciliter la collaboration entre chercheurs et organisateurs\nPromouvoir l’innovation dans l’organisation d’événements académiques"
+    "text": "Mission\nNotre mission est de concevoir et partager des méthodes, outils et pratiques pour :\n\nOrganiser efficacement des événements scientifiques\nIntégrer les technologies intellectives dans la gestion d’événements\nFaciliter la collaboration entre chercheurs et organisateurs\nPromouvoir l’innovation dans l’organisation d’événements académiques"
   },
   {
     "objectID": "about.html#technologies",
     "href": "about.html#technologies",
-    "title": "About",
+    "title": "A propos",
     "section": "Technologies",
     "text": "Technologies\nCe projet utilise :\n\nQuarto pour la documentation et le site web\nGitHub pour la gestion du code et la collaboration\nDes outils modernes de gestion d’événements"
   },
   {
     "objectID": "about.html#contribuer",
     "href": "about.html#contribuer",
-    "title": "About",
+    "title": "A propos",
     "section": "Contribuer",
     "text": "Contribuer\nCe projet est open source et accueille les contributions. Visitez notre dépôt GitHub pour en savoir plus."
   },
   {
     "objectID": "about.html#contact",
     "href": "about.html#contact",
-    "title": "About",
+    "title": "A propos",
     "section": "Contact",
     "text": "Contact\nPour toute question ou suggestion, n’hésitez pas à ouvrir une issue sur GitHub."
   },
@@ -47,55 +47,6 @@
     "title": "Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives",
     "section": "",
     "text": "Dates : 26 et 27 mars 2026\nLieu : Université Paris 8, Salle A 148\nPublic visé : Chercheurs, ingénieurs de recherche, gestionnaires de colloques, doctorants, étudiants de Master et professionnels de l’édition scientifique."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cyber Sciences Events",
-    "section": "",
-    "text": "Bienvenue sur le site Cyber Sciences Events - un projet dédié à la gestion et au pilotage d’événements scientifiques à l’ère des technologies intellectives."
-  },
-  {
-    "objectID": "index.html#bienvenue",
-    "href": "index.html#bienvenue",
-    "title": "Cyber Sciences Events",
-    "section": "",
-    "text": "Bienvenue sur le site Cyber Sciences Events - un projet dédié à la gestion et au pilotage d’événements scientifiques à l’ère des technologies intellectives."
-  },
-  {
-    "objectID": "index.html#à-propos-du-projet",
-    "href": "index.html#à-propos-du-projet",
-    "title": "Cyber Sciences Events",
-    "section": "À propos du projet",
-    "text": "À propos du projet\nCe projet explore comment les technologies modernes peuvent transformer l’organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre :\n\nLes sciences cognitives\nLes technologies intellectives\nL’organisation d’événements\nLa collaboration scientifique"
-  },
-  {
-    "objectID": "index.html#objectifs",
-    "href": "index.html#objectifs",
-    "title": "Cyber Sciences Events",
-    "section": "Objectifs",
-    "text": "Objectifs\n\nDévelopper des outils pour faciliter l’organisation d’événements scientifiques\nExplorer l’utilisation des technologies intellectives dans le contexte académique\nCréer une communauté autour de ces pratiques innovantes"
-  },
-  {
-    "objectID": "index.html#en-savoir-plus",
-    "href": "index.html#en-savoir-plus",
-    "title": "Cyber Sciences Events",
-    "section": "En savoir plus",
-    "text": "En savoir plus\nVisitez la page About pour plus d’informations sur le projet et ses contributeurs."
-  },
-  {
-    "objectID": "joMars2026.html#description-des-étapes-clés",
-    "href": "joMars2026.html#description-des-étapes-clés",
-    "title": "Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives",
-    "section": "Description des étapes clés",
-    "text": "Description des étapes clés\n\nConception & Cadrage : C’est l’étape où l’on définit l’identité scientifique de l’événement et sa viabilité économique.\nAppel à Communications : La phase de “Net-activisme” où l’on sollicite la communauté pour irriguer la noosphère du projet.\nSélection & Expertise : Le cœur du processus scientifique (le crible) garantissant la qualité des échanges.\nLogistique & Programmation : La transformation du savoir en un événement fluide et pertinent.\nL’Événement (Live) : Le moment de résonance des corps et des esprits.\nValorisation : La phase de phylogenèse numérique où les traces deviennent des savoirs stabilisés et archivés."
-  },
-  {
-    "objectID": "joMars2026.html#problématiques",
-    "href": "joMars2026.html#problématiques",
-    "title": "Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives",
-    "section": "Problématiques",
-    "text": "Problématiques\nComme le souligne(Azeroual and Schöpfel 2025) le déploiement de nouveaux environnements numériques dans la recherche doit s’accompagner d’une réflexion éthique : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s’inscrit dans la « raison numérique » décrite par Bruno Bachimont (Bachimont 2020), où le savoir devient indissociable de sa manipulation calculable.\nL’enjeu est double et renvoie aux deux pôles des humanités numériques (Doueihi 2015) :\n\nPenser la dialectique entre deux paradigmes technologiques :\n\nL’IA Symbolique : celle des règles, des catégories et des ontologies définies collectivement lors de processus d’élaboration du consensus (Schmid and Mambrini-Doudet 2019).\nL’IA Connexionniste : Celle des réseaux de neurones (LLM, modèles de diffusion), apportant la fluidité sémantique et visuelle par une délégation à la machine des pouvoirs de discerner, raisonner et agir (LeCun 2024).\n\nElaborer une éthique de la discussion (Habermas 2013) entre des modes d’existences différents (Latour 2012) comme les des agents artificiels, les chercheurs, les étudiants, les éditeurs…\n\nPour mener à bien ce travail collectif de recherche, nous nous basons sur une description des flux infocommunicationnels liés à la gestion d’un événement scientifique afin d’en définir les différents aspects qui devront être pris en compte. Le diagramme suivant présente les étapes séquentielles et les boucles de décision nécessaires à l’organisation d’un colloque ou d’une journée d’études, en intégrant les dimensions administratives, scientifiques et techniques.\n\n\n\n\n\n\ngraph TD\n    %% Phase de Conception\n    subgraph Phase_1 [CONCEPTION & CADRAGE]\n        A[Définition de la thématique] --&gt; B[Constitution du Comité Scientifique et d'Organisation]\n        B --&gt; C[Établissement du budget et recherche de financements]\n        C --&gt; D[Choix des dates et du lieu / Plateforme hybride]\n    end\n\n    %% Phase de Lancement\n    subgraph Phase_2 [\"APPEL À COMMUNICATIONS\"]\n        D --&gt; E[\"Rédaction de l'Appel à Communications - AAP\"]\n        E --&gt; F[\"Diffusion via listes de diffusion et réseaux sociaux\"]\n        F --&gt; G[\"Ouverture de la plateforme de dépôt\"]\n    end\n\n    %% Phase d'Évaluation\n    subgraph Phase_3 [SÉLECTION & EXPERTISE]\n        G --&gt; H{Réception des soumissions}\n        H --&gt; I[Assignation des évaluateurs - Double aveugle]\n        I --&gt; J{Évaluation scientifique}\n        J --&gt;|Accepté| K[Notification aux auteurs]\n        J --&gt;|Refusé| L[Notification de refus]\n        J --&gt;|À modifier| M[Navette avec les auteurs]\n        M --&gt; J\n    end\n\n    %% Phase de Programmation\n    subgraph Phase_4 [\"PROGRAMMATION & LOGISTIQUE\"]\n        K --&gt; N[Réception des versions finales et inscriptions]\n        N --&gt; O[Élaboration du programme définitif - Sessions/Keynotes]\n        O --&gt; P[Logistique : Traiteur, technique, badges, hébergement]\n    end\n\n    %% Phase de Réalisation\n    subgraph Phase_5 [L'ÉVÉNEMENT - LIVE]\n        P --&gt; Q[Accueil des participants]\n        Q --&gt; R[Sessions scientifiques et débats]\n        R --&gt; S[Captation audio/vidéo et réseaux sociaux en direct]\n    end\n\n    %% Phase de Valorisation\n    subgraph Phase_6 [VALORISATION & MÉMOIRE]\n        S --&gt; T[Collecte des retours et remerciements]\n        T --&gt; U[Édition et publication des actes - HAL/Revues]\n        U --&gt; V[Archivage pérenne des traces numériques]\n    end\n\n    %% Styles\n    style Phase_1 fill:#f5f5f5,stroke:#333,stroke-dasharray: 5 5\n    style Phase_2 fill:#e1f5fe,stroke:#01579b\n    style Phase_3 fill:#e1f5fe,stroke:#01579b\n    style Phase_4 fill:#e1f5fe,stroke:#01579b\n    style Phase_5 fill:#fff9c4,stroke:#fbc02d\n    style Phase_6 fill:#e1f5fe,stroke:#01579b\n    style J fill:#ffecb3,stroke:#ffa000\n\n\n\n\nFigure 1: Flux info-communicationel d’un événement scientifique\n\n\n\n\n\n\nDescription des étapes clés\n\nConception & Cadrage : C’est l’étape où l’on définit l’identité scientifique de l’événement et sa viabilité économique.\nAppel à Communications : La phase de “Net-activisme” où l’on sollicite la communauté pour irriguer la noosphère du projet.\nSélection & Expertise : Le cœur du processus scientifique (le crible) garantissant la qualité des échanges.\nLogistique & Programmation : La transformation du savoir en un événement fluide et pertinent.\nL’Événement (Live) : Le moment de résonance des corps et des esprits.\nValorisation : La phase de phylogenèse numérique où les traces deviennent des savoirs stabilisés et archivés."
   },
   {
     "objectID": "joMars2026.html#informations-pratiques",
@@ -112,10 +63,52 @@
     "text": "Introduction\nCes deux journées d’études interrogent les mutations profondes des pratiques de recherche face à l’émergence de nouvelles technologies intellectives (https://www.istegroup.com/fr/series/technologies-intellectives/).\nPlus particulièrement, nous nous interrogerons sur ces technologies et nous les expérimenterons dans le cadre de la conception, de l’organisation et de la diffusion d’événements scientifiques. Nous prolongeons ainsi les réflexions menées par le laboratoire Paragraphe à travers plusieurs initiatives :\n\n3AI : Art In The Age of AI,\n\n2023 La Louvière, Bruxelles, Belgique.\n2024 Ionian Academy, Corfu, Grèce https://3ai-24.sciencesconf.org.\n2025 ESAAix, Aix-en-Provence, France https://3ai25.sciencesconf.org.\n\n2025 Atelier pédagogique : utilisation de Ollama et AnythingLLM : https://samszo.github.io/ConfErrance/iaSem1.html\n2025 01Design : Design de l’intelligence, Montpellier, France https://01design13.sciencesconf.org/\n\nConformément aux travaux de Maturana & Varela (Maturana and Varela 1994), les événements scientifiques comme les conférences, les colloques, les séminaires et autres journées d’études sont ici pensés comme des systèmes autopoïétiques où se déploient de nouveaux « couplages structurels » entre les intentions humaines et les existences informationnelles au sein d’une Noosphère (Morin 1995). De nouveaux écosystèmes de connaissances se déploient dans ces environnements sociaux numériques où les “existences informationnelles” subissent, réagissent et interagissent les unes avec les autres. Pour décrire, analyser et comprendre ces environnements, nous devons tout à la fois et en même temps : concevoir, expérimenter, analyser et critiquer. C’est l’objet de ces deux journées d’études qui mélangent séances de présentations théoriques, bricolages pratiques et tables rondes."
   },
   {
+    "objectID": "joMars2026.html#problématiques",
+    "href": "joMars2026.html#problématiques",
+    "title": "Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives",
+    "section": "Problématiques",
+    "text": "Problématiques\nComme le souligne(Azeroual and Schöpfel 2025) le déploiement de nouveaux environnements numériques dans la recherche doit s’accompagner d’une réflexion éthique : il faut comprendre « ce qu’il y aura demain sous nos moteurs ». Cette mutation s’inscrit dans la « raison numérique » décrite par Bruno Bachimont (Bachimont 2020), où le savoir devient indissociable de sa manipulation calculable.\nL’enjeu est double et renvoie aux deux pôles des humanités numériques (Doueihi 2015) :\n\nPenser la dialectique entre deux paradigmes technologiques :\n\nL’IA Symbolique : celle des règles, des catégories et des ontologies définies collectivement lors de processus d’élaboration du consensus (Schmid and Mambrini-Doudet 2019).\nL’IA Connexionniste : Celle des réseaux de neurones (LLM, modèles de diffusion), apportant la fluidité sémantique et visuelle par une délégation à la machine des pouvoirs de discerner, raisonner et agir (LeCun 2024).\n\nElaborer une éthique de la discussion (Habermas 2013) entre des modes d’existences différents (Latour 2012) comme les des agents artificiels, les chercheurs, les étudiants, les éditeurs…\n\nPour mener à bien ce travail collectif de recherche, nous nous basons sur une description des flux infocommunicationnels liés à la gestion d’un événement scientifique afin d’en définir les différents aspects qui devront être pris en compte. Le diagramme suivant présente les étapes séquentielles et les boucles de décision nécessaires à l’organisation d’un colloque ou d’une journée d’études, en intégrant les dimensions administratives, scientifiques et techniques.\n\n\n\n\n\n\ngraph TD\n    %% Phase de Conception\n    subgraph Phase_1 [CONCEPTION & CADRAGE]\n        A[Définition de la thématique] --&gt; B[Constitution du Comité Scientifique et d'Organisation]\n        B --&gt; C[Établissement du budget et recherche de financements]\n        C --&gt; D[Choix des dates et du lieu / Plateforme hybride]\n    end\n\n    %% Phase de Lancement\n    subgraph Phase_2 [\"APPEL À COMMUNICATIONS\"]\n        D --&gt; E[\"Rédaction de l'Appel à Communications - AAP\"]\n        E --&gt; F[\"Diffusion via listes de diffusion et réseaux sociaux\"]\n        F --&gt; G[\"Ouverture de la plateforme de dépôt\"]\n    end\n\n    %% Phase d'Évaluation\n    subgraph Phase_3 [SÉLECTION & EXPERTISE]\n        G --&gt; H{Réception des soumissions}\n        H --&gt; I[Assignation des évaluateurs - Double aveugle]\n        I --&gt; J{Évaluation scientifique}\n        J --&gt;|Accepté| K[Notification aux auteurs]\n        J --&gt;|Refusé| L[Notification de refus]\n        J --&gt;|À modifier| M[Navette avec les auteurs]\n        M --&gt; J\n    end\n\n    %% Phase de Programmation\n    subgraph Phase_4 [\"PROGRAMMATION & LOGISTIQUE\"]\n        K --&gt; N[Réception des versions finales et inscriptions]\n        N --&gt; O[Élaboration du programme définitif - Sessions/Keynotes]\n        O --&gt; P[Logistique : Traiteur, technique, badges, hébergement]\n    end\n\n    %% Phase de Réalisation\n    subgraph Phase_5 [L'ÉVÉNEMENT - LIVE]\n        P --&gt; Q[Accueil des participants]\n        Q --&gt; R[Sessions scientifiques et débats]\n        R --&gt; S[Captation audio/vidéo et réseaux sociaux en direct]\n    end\n\n    %% Phase de Valorisation\n    subgraph Phase_6 [VALORISATION & MÉMOIRE]\n        S --&gt; T[Collecte des retours et remerciements]\n        T --&gt; U[Édition et publication des actes - HAL/Revues]\n        U --&gt; V[Archivage pérenne des traces numériques]\n    end\n\n    %% Styles\n    style Phase_1 fill:#f5f5f5,stroke:#333,stroke-dasharray: 5 5\n    style Phase_2 fill:#e1f5fe,stroke:#01579b\n    style Phase_3 fill:#e1f5fe,stroke:#01579b\n    style Phase_4 fill:#e1f5fe,stroke:#01579b\n    style Phase_5 fill:#fff9c4,stroke:#fbc02d\n    style Phase_6 fill:#e1f5fe,stroke:#01579b\n    style J fill:#ffecb3,stroke:#ffa000\n\n\n\n\nFigure 1: Flux info-communicationel d’un événement scientifique\n\n\n\n\n\n\nDescription des étapes clés\n\nConception & Cadrage : C’est l’étape où l’on définit l’identité scientifique de l’événement et sa viabilité économique.\nAppel à Communications : La phase de “Net-activisme” où l’on sollicite la communauté pour irriguer la noosphère du projet.\nSélection & Expertise : Le cœur du processus scientifique (le crible) garantissant la qualité des échanges.\nLogistique & Programmation : La transformation du savoir en un événement fluide et pertinent.\nL’Événement (Live) : Le moment de résonance des corps et des esprits.\nValorisation : La phase de phylogenèse numérique où les traces deviennent des savoirs stabilisés et archivés."
+  },
+  {
     "objectID": "joMars2026.html#programme-prévisionnel",
     "href": "joMars2026.html#programme-prévisionnel",
     "title": "Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives",
     "section": "Programme prévisionnel",
-    "text": "Programme prévisionnel\nLa première journée est consacrée aux discussions théoriques et technologiques. Nous aborderons les points suivants (liste non exhaustive) :\n\nJournée 1 : jeudi 26 mars\n\nAccueil & Introduction\n\nOuverture : L’événement comme écosystème de connaissances : de l’autopoïèse au design sémantique (Szoniecky 2024).\nLe conflit des paradigmes : IA symbolique vs IA connexionniste. Pourquoi la science a-t-elle besoin de cette hybridation ?\n\nSession 1 : L’Idéation et la Raison Numérique\n\nCartographie sémantique : Utilisation de thésaurus (Symbolique) pour cadrer la génération créative des LLM (Connexionniste).\nRédaction assistée : Production d’une « inscription calculable » valide (Bachimont 2020).\nNet-activisme : Mobilisation des « tribus » académiques dans l’espace numérique (Pélissier 2021).\n\nSession 2 : Le Diagramme comme Crible Visuel\n\nVisualisation de l’écosystème : Le diagramme comme pont entre la structure et l’interprétation humaine.\nDesign sémantique : Utiliser les graphes pour stimuler l’intuition et la découverte.\n\nSession 3 : Le Workflow des Soumissions\n\nClassification hybride : Machine learning pour le tri et ontologies pour la vérification thématique rigoureuse.\nSingularité et automatisation : l’enjeu est de ne pas laisser le connexionnisme écraser la « singularité du geste de recherche ».\n\nSession 4 : Architecture Diagrammatique et Puissance d’Agir\n\nOptimisation combinatoire : Le programme comme agencement de corps et d’idées.\nFluidité numérique : « La révolution numérique transforme la matière de la construction en fluide » (Mercuriali 2018).\n\nSession 5 : Logistique Prédictive et Écosystèmes Matériels\n\nFlux et empreinte : « Data-driven logistics » et règles de durabilité.\n\nSession 6 : L’Expérience « Live » et la Résonance des Corps\n\nAgents et Noosphère : Les agents intelligents comme « manières d’être » (Latour 2012) et médiateurs de la « refonte des pratiques sociales » (Guattari 2001).\nRaisonner-Résonner : Couplage structurel entre indexations sémantiques dans la logique du premier ordre (Badiou 2018) et médiations intuitives dans les rêveries inspirantes (Bachelard 1994).\n\nSession 7 : La Publication et la Mémoire Numérique\n\nPhylogenèse et pérennité : Réflexion sur la « mémoire informatique » et la stabilité du sens (µ, Edeline, and Klinkenberg 2015).\nActes augmentés : Du compte-rendu figé au diagrammes de connaissances vivants.\n\n\n\nLa deuxième journée est consacrée aux bricolages et aux expérimentations des technologies interlectives. Nous aborderons les points suivants (liste non exhaustive) :\n\nJournée 1 : jeudi 26 mars\n\nAtelier A : « Prompt Engineering » et Raisonnement Logique\n\nBricolage : Apprendre à utiliser des structures logiques (Chain-of-Thought) pour piloter des modèles connexionnistes.\n\nAtelier B : Workflows Multi-Agents et Noosphère\n\nBricolage : Comparaison pratique entre n8n (Symbolique/Déterministe) et Mastra (Agentic/Framework).\nExercice : Créer une boucle de rétroaction récursive où un agent « critique » évalue la production d’un agent « générateur ».\n\nAtelier C : Design de Graphes et Crible Visuel\n\nBricolage : Transformer des proximités statistiques en diagramme de relations explicites avec Gephi, Cosma ou Obsidian. Utilisation de la visualisation comme crible pour équilibrer les sessions du colloque.\n\nAtelier D : Analyse de traces et Inscription Numérique\n\nBricolage : Extraire des entités nommées (Symbolique) depuis des transcriptions audio (Connexionniste) pour construire des actes augmentés.\n\nAtelier E : Design Algorithmique — Génération d’Affiches\n\nObjectif : Matérialiser l’identité visuelle du colloque à partir de son ADN sémantique via un « Prompt Hybride »."
+    "text": "Programme prévisionnel\nLa première journée est consacrée aux discussions théoriques et technologiques. Nous aborderons les points suivants (liste non exhaustive) :\n\nJournée 1 : jeudi 26 mars\n\nAccueil & Introduction\n\nOuverture : L’événement comme écosystème de connaissances : de l’autopoïèse au design sémantique (Szoniecky 2024).\nLe conflit des paradigmes : IA symbolique vs IA connexionniste. Pourquoi la science a-t-elle besoin de cette hybridation ?\n\nSession 1 : L’Idéation et la Raison Numérique\n\nCartographie sémantique : Utilisation de thésaurus (Symbolique) pour cadrer la génération créative des LLM (Connexionniste).\nRédaction assistée : Production d’une « inscription calculable » valide (Bachimont 2020).\nNet-activisme : Mobilisation des « tribus » académiques dans l’espace numérique (Pélissier 2021).\n\nSession 2 : Le Diagramme comme Crible Visuel\n\nVisualisation de l’écosystème : Le diagramme comme pont entre la structure et l’interprétation humaine.\nDesign sémantique : Utiliser les graphes pour stimuler l’intuition et la découverte.\n\nSession 3 : Le Workflow des Soumissions\n\nClassification hybride : Machine learning pour le tri et ontologies pour la vérification thématique rigoureuse.\nSingularité et automatisation : l’enjeu est de ne pas laisser le connexionnisme écraser la « singularité du geste de recherche ».\n\nSession 4 : Architecture Diagrammatique et Puissance d’Agir\n\nOptimisation combinatoire : Le programme comme agencement de corps et d’idées.\nFluidité numérique : « La révolution numérique transforme la matière de la construction en fluide » (Mercuriali 2018).\n\nSession 5 : Logistique Prédictive et Écosystèmes Matériels\n\nFlux et empreinte : « Data-driven logistics » et règles de durabilité.\n\nSession 6 : L’Expérience « Live » et la Résonance des Corps\n\nAgents et Noosphère : Les agents intelligents comme « manières d’être » (Latour 2012) et médiateurs de la « refonte des pratiques sociales » (Guattari 2001).\nRaisonner-Résonner : Couplage structurel entre indexations sémantiques dans la logique du premier ordre (Badiou 2018) et médiations intuitives dans les médiations alchimiques (Bachelard 1994).\n\nSession 7 : La Publication et la Mémoire Numérique\n\nPhylogenèse et pérennité : Réflexion sur la « mémoire informatique » et la stabilité du sens (µ, Edeline, and Klinkenberg 2015).\nActes augmentés : Du compte-rendu figé au diagrammes de connaissances vivants.\n\n\n\nLa deuxième journée est consacrée aux bricolages et aux expérimentations des technologies intellectives. Nous aborderons les points suivants (liste non exhaustive) :\n\nJournée 2 : vendredi 27 mars\n\nAtelier A : « Prompt Engineering » et Raisonnement Logique\n\nBricolage : Apprendre à utiliser des structures logiques (Chain-of-Thought) pour piloter des modèles connexionnistes.\n\nAtelier B : Workflows Multi-Agents et Noosphère\n\nBricolage : Comparaison pratique entre n8n (Symbolique/Déterministe) et Mastra (Agentic/Framework).\nExercice : Créer une boucle de rétroaction récursive où un agent « critique » évalue la production d’un agent « générateur ».\n\nAtelier C : Design de Graphes et Crible Visuel\n\nBricolage : Transformer des proximités statistiques en diagramme de relations explicites avec Gephi, Cosma ou Obsidian. Utilisation de la visualisation comme crible pour équilibrer les sessions du colloque.\n\nAtelier D : Analyse de traces et Inscription Numérique\n\nBricolage : Extraire des entités nommées (Symbolique) depuis des transcriptions audio (Connexionniste) pour construire des actes augmentés.\n\nAtelier E : Design Algorithmique — Génération d’Affiches\n\nObjectif : Matérialiser l’identité visuelle du colloque à partir de son ADN sémantique via un « Prompt Hybride ».\n\nAtelier F : Protocole pour une éthique de la discussion\n\nBricolage : création d’un annuaire des chercheurs et d’un agent pour la gestion des échanges de mail\nObjectif : concevoir un écosystème de recommandations"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cyber Sciences Events",
+    "section": "",
+    "text": "Bienvenue sur le site Cyber Sciences Events\n\nun projet dédié à la gestion et au pilotage d’événements scientifiques à l’ère des technologies intellectives."
+  },
+  {
+    "objectID": "index.html#bienvenue",
+    "href": "index.html#bienvenue",
+    "title": "Cyber Sciences Events",
+    "section": "",
+    "text": "Bienvenue sur le site Cyber Sciences Events\n\nun projet dédié à la gestion et au pilotage d’événements scientifiques à l’ère des technologies intellectives."
+  },
+  {
+    "objectID": "index.html#à-propos-du-projet",
+    "href": "index.html#à-propos-du-projet",
+    "title": "Cyber Sciences Events",
+    "section": "À propos du projet",
+    "text": "À propos du projet\nCe projet explore comment les technologies intellectives peuvent transformer l’organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre plusieurs domaines scientifiques : - Les sciences de l’information et de la communication - Les sciences du numérique - Les sciences cognitives - Les sciences humaines\nLes réflexions et les débats menés dans ce projet ont pour vocation de cultiver des synergies entre des champs de recherche fertiles : - Les intelligences collectives - Les technologies intellectives - L’organisation d’événements - La collaboration scientifique"
+  },
+  {
+    "objectID": "index.html#objectifs",
+    "href": "index.html#objectifs",
+    "title": "Cyber Sciences Events",
+    "section": "Objectifs",
+    "text": "Objectifs\n\nDévelopper des outils pour l’organisation d’événements scientifiques\nExplorer l’utilisation des technologies intellectives dans le contexte académique\nCréer une communauté autour de ces pratiques innovantes"
+  },
+  {
+    "objectID": "index.html#en-savoir-plus",
+    "href": "index.html#en-savoir-plus",
+    "title": "Cyber Sciences Events",
+    "section": "En savoir plus",
+    "text": "En savoir plus\nVisitez la page About pour plus d’informations sur le projet et ses contributeurs."
   }
 ]

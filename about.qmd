@@ -1,14 +1,45 @@
 ---
-title: "About"
+lightbox: true
+title: "A propos"
+subtitle: "Projet multidiciplinaires pour la conception d'événements scientifiques innovants"
+date: last-modified
+author:
+  - name: Samuel Szoniecky
+    affiliation: Laboratoire Paragraphe - Université Paris 8
+    orcid: 0000-0002-7643-3342
+
+citeproc: true
+
+number-sections: true
+
+format: 
+  html: 
+    theme: default
+    search: true
+    toc: true
+    number-sections: false
+    number-depth: 4
+    comments:
+      hypothesis: true
+
+  pdf: 
+    documentclass: scrreprt
+    papersize: A4    
+    geometry:
+          - top=30mm
+          - left=20mm
+          - heightrounded
+    toc: false
+    number-sections: false
 ---
 
 ## À propos de Cyber Sciences Events
 
-**Cyber Sciences Events** est un projet innovant qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l'ère numérique.
+**Cyber Sciences Events** est un projet qui vise à repenser la manière dont nous organisons et gérons les événements scientifiques à l'ère numérique.
 
 ## Mission
 
-Notre mission est de développer et partager des méthodes, outils et pratiques pour :
+Notre mission est de concevoir et partager des méthodes, outils et pratiques pour :
 
 - Organiser efficacement des événements scientifiques
 - Intégrer les technologies intellectives dans la gestion d'événements

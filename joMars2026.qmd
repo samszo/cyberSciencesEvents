@@ -198,7 +198,7 @@ La première journée est consacrée aux discussions théoriques et technologiqu
 
         -   Agents et Noosphère : Les agents intelligents comme « manières d'être » [@latour2012] et médiateurs de la « refonte des pratiques sociales » [@guattari2001].
 
-        -   Raisonner-Résonner : Couplage structurel entre indexations sémantiques dans la logique du premier ordre [@badiou2018] et médiations intuitives dans les rêveries inspirantes [@bachelard1994].
+        -   Raisonner-Résonner : Couplage structurel entre indexations sémantiques dans la logique du premier ordre [@badiou2018] et médiations intuitives dans les médiations alchimiques [@bachelard1994].
 
     -   Session 7 : La Publication et la Mémoire Numérique
 
@@ -206,9 +206,9 @@ La première journée est consacrée aux discussions théoriques et technologiqu
 
         -   Actes augmentés : Du compte-rendu figé au diagrammes de connaissances vivants.
 
-La deuxième journée est consacrée aux bricolages et aux expérimentations des technologies interlectives. Nous aborderons les points suivants (liste non exhaustive) :
+La deuxième journée est consacrée aux bricolages et aux expérimentations des technologies intellectives. Nous aborderons les points suivants (liste non exhaustive) :
 
--   Journée 1 : jeudi 26 mars
+-   Journée 2 : vendredi 27 mars
 
     -   Atelier A : « Prompt Engineering » et Raisonnement Logique
 
@@ -231,5 +231,11 @@ La deuxième journée est consacrée aux bricolages et aux expérimentations des
     -   Atelier E : Design Algorithmique — Génération d'Affiches
 
         -   Objectif : Matérialiser l'identité visuelle du colloque à partir de son ADN sémantique via un « Prompt Hybride ».
+
+    -   Atelier F : Protocole pour une éthique de la discussion
+
+        -   Bricolage : création d'un annuaire des chercheurs et d'un agent pour la gestion des échanges de mail
+
+        -   Objectif : concevoir un écosystème de recommandations
 
 ## Bibliographie
