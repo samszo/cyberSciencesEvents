@@ -35,29 +35,37 @@ format:
 
 ## Bienvenue
 
-Bienvenue sur le site **Cyber Sciences Events** 
+Bienvenue sur le site **Cyber Sciences Events**
 
-- un projet dédié à la gestion et au pilotage d'événements scientifiques à l'ère des technologies intellectives.
+*projet dédié à la gestion et au pilotage d'événements scientifiques à l'ère des technologies intellectives*
 
 ## À propos du projet
 
 Ce projet explore comment les technologies intellectives peuvent transformer l'organisation et la gestion des événements scientifiques. Nous nous intéressons particulièrement aux intersections entre plusieurs domaines scientifiques :
-- Les sciences de l'information et de la communication
-- Les sciences du numérique
-- Les sciences cognitives
-- Les sciences humaines
+
+-   Les sciences de l'information et de la communication
+
+-   Les sciences du numérique
+
+-   Les sciences cognitives
+
+-   Les sciences humaines
 
 Les réflexions et les débats menés dans ce projet ont pour vocation de cultiver des synergies entre des champs de recherche fertiles :
-- Les intelligences collectives
-- Les technologies intellectives
-- L'organisation d'événements
-- La collaboration scientifique
+
+-   Les intelligences collectives
+
+-   Les technologies intellectives
+
+-   L'organisation d'événements
+
+-   La collaboration scientifique
 
 ## Objectifs
 
-- Développer des outils pour l'organisation d'événements scientifiques
-- Explorer l'utilisation des technologies intellectives dans le contexte académique
-- Créer une communauté autour de ces pratiques innovantes
+-   Développer des outils pour l'organisation d'événements scientifiques
+-   Explorer l'utilisation des technologies intellectives dans le contexte académique
+-   Créer une communauté autour de ces pratiques innovantes
 
 ## En savoir plus
 
