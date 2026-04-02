@@ -1,0 +1,40 @@
+---
+title: "Écosystèmes de connaissances et événements scientifiques : vers un jardin numérique autopoïétique"
+author: Samuel Szoniecky
+categories: [écosystème de connaissances, ontology, humanités numériques, intelligence collective, participative]
+
+subtitle: "Concevoir et archiver l'événement : Ce que la web-éducation muséale enseigne à la valorisation scientifique"
+bibliography: referenceAuteurs.bib
+
+
+
+---
+
+#### Laboratoire paragraphe
+[{{< fa solid globe >}} https://www.idref.fr/182295591](https://www.idref.fr/182295591) [{{< fa solid globe >}} https://orcid.org/0000-0002-7643-3342](https://orcid.org/0000-0002-7643-3342) [{{< fa solid globe >}} https://hal.science/search/index/?q=authIdHal_s:samuel-szoniecky](https://hal.science/search/index/?q=authIdHal_s:samuel-szoniecky) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** Cette proposition modélise l'événement scientifique comme un écosystème de connaissances autopoïétique [@maturana1994 ; @szoniecky:hal-04156629]. En employant la métaphore du jardin numérique [@laborderie:hal-01258307], nous concevons l'évaluation et la mémoire de la recherche comme un crible sémantique [@szoniecky:hal-04148480], croisant l'IA symbolique et la phylogenèse numérique [@µ2015] pour assurer l'intelligibilité des savoirs.
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/85509)
+  - [lien vers le prompt](prompt_samuel_szoniecky.txt)
+  - [lien vers la réponse](resume_samuel_szoniecky.json)
+
+
+
+**Titre : Écosystèmes de connaissances et événements scientifiques : vers un jardin numérique autopoïétique**
+
+**Résumé :**
+
+À l'ère des technologies intellectives, l'événement scientifique dépasse sa simple fonction de rassemblement pour devenir un véritable écosystème de connaissances, à la fois hybride et vivant. Cette proposition s'inscrit au carrefour des axes relatifs à l'expertise scientifique (Axe 3) et à la mémoire documentaire (Axe 6), en suggérant d'appréhender les processus de sélection et d'évaluation collective à travers le prisme d'un « crible » sémantique. En mobilisant les méthodes des humanités numériques, nous démontrerons la capacité de tels dispositifs à cartographier de manière dynamique les réseaux d'influences qui structurent nos communautés académiques. L'objectif majeur réside dans la transformation des traditionnels actes de conférences en de véritables « jardins numériques » éditorialisés. Cette approche favorise une phylogenèse de l'information où les savoirs peuvent se sédimenter, se ramifier et s'interconnecter continuellement après l'événement en "live". Pour ce faire, notre modélisation s'appuie sur une topologie sémantique capable d'articuler la rigueur de l'IA symbolique — nécessaire à la structuration ontologique de l'évaluation — avec la complexité inhérente à l'intelligence collective des chercheurs. En concevant l'événement scientifique comme un organisme autopoïétique, nous assurons une valorisation pérenne où chaque interaction vient fertiliser et renforcer la viabilité globale de l'écosystème de la recherche.
+
+### Résonances Bibliographiques
+
+*   **Autopoïèse et Écosystèmes de l'Information :** Les travaux sur la métamorphose des archives numériques et la modélisation des écosystèmes d'information [@szoniecky:hal-04156629 ; @szoniecky:hal-01098425] s'articulent directement avec la conception des événements comme systèmes informationnels autopoïétiques [@maturana1994 ; @szoniecky2024].
+*   **Humanités Numériques et Noosphère :** La métaphore du « jardin numérique » et l'utilisation d'outillages numériques pour cartographier les réseaux d'influences [@laborderie:hal-01258307 ; @szoniecky:hal-01220142] offrent une implémentation tangible des deux pôles des humanités numériques [@doueihi2015] et permettent d'ancrer matériellement les existences informationnelles au sein de la noosphère [@morin1995].
+*   **Évaluation Scientifique et Consensus :** Le design d'un crible participatif pour la mesure collective des activités [@szoniecky:hal-04148480] entre en résonance profonde avec l'élaboration d'un consensus via l'IA symbolique [@schmid2019] et s'inscrit dans les nouvelles exigences de l'éthique de la discussion et de l'évaluation de la recherche [@habermas2013 ; @azeroual2025].
+*   **Mémoire et Phylogenèse Numérique :** L'écosystème éditorial proposé pour la création et l'évaluation de ressources [@szoniecky:hal-01098509] opère une véritable phylogenèse numérique des actes de conférences [@µ2015], répondant ainsi aux impératifs d'intelligibilité et d'inscription de la raison numérique [@bachimont2020].

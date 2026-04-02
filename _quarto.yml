@@ -13,6 +13,12 @@ website:
         text: About
       - href: joMars2026.qmd
         text: "Journées d'études : Mars 2026"
+      - href: programme.qmd
+        text: Programme
+      - href: contributions.html
+        text: Contributions
+      - href: auteurs.html
+        text: Auteurs
     right:
       - icon: github
         href: https://github.com/samszo/cyberSciencesEvents
@@ -25,3 +31,4 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+

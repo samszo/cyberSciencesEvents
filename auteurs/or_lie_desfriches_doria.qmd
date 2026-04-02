@@ -1,0 +1,37 @@
+---
+title: "« Publicize or Perish » à l'ère de l'IA : Modélisation des controverses et design sémantique pour l'évaluation des événements scientifiques"
+author: Orélie Desfriches Doria
+categories: [Organisation des connaissances, humanités numériques, Esprit critique, controversies, Ontologie, datavisualisation]
+
+subtitle: "L'éditorialisation continue de la recherche : de l'écriture collaborative à l'archive autopoïétique"
+bibliography: referenceAuteurs.bib
+
+
+
+---
+
+#### Laboratoire paragraphe
+[{{< fa solid globe >}} https://www.idref.fr/178282154](https://www.idref.fr/178282154) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** Cette intervention repense l'évaluation et la valorisation des événements scientifiques face à l'injonction du « Publicize or Perish » [@boukacemzeghmouri:hal-01973467]. En s'appuyant sur la modélisation des controverses et l'ingénierie documentaire [@desfrichesdoria:halshs-03252800 ; @zacklad:hal-02924134], nous analysons comment le design sémantique permet de structurer ces écosystèmes [@szoniecky2024], favorisant l'intelligibilité numérique au sein de l'autopoïèse académique [@maturana1994].
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/85515)
+  - [lien vers le prompt](prompt_or_lie_desfriches_doria.txt)
+  - [lien vers la réponse](resume_or_lie_desfriches_doria.json)
+
+
+
+**Titre : « Publicize or Perish » à l'ère de l'IA : Modélisation des controverses et design sémantique pour l'évaluation des événements scientifiques**
+
+**Résumé :**
+
+L'émergence des nouvelles technologies intellectives bouleverse la diffusion et l'évaluation des savoirs, accentuant les dynamiques de visibilité scientifique, souvent résumées par le paradigme « Publicize or Perish ». Cette proposition interroge la conception et la sélection (Axe 3) au sein des événements scientifiques à travers le prisme de l'organisation des connaissances et des humanités numériques. En mobilisant nos travaux sur le design pour créer du sens et la modélisation comme outil de l'esprit critique, nous démontrerons que l'événement scientifique n'est pas une simple chambre d'écho, mais un espace heuristique où se déploient et s'organisent les controverses. Il s'agit d'explorer comment l'ingénierie documentaire et l'usage d'ontologies ou de classifications à facettes (IA symbolique) peuvent outiller le crible scientifique, tout en préservant l'éthique de la discussion. L'enjeu est d'utiliser la cartographie et la datavisualisation pour rendre intelligible la polyphonie des acteurs, et de structurer une phylogenèse numérique (Axe 6) garantissant la traçabilité mémorielle des débats au cœur de la noosphère académique.
+
+### Résonances Bibliographiques
+
+L'injonction à la visibilité abordée dans [@boukacemzeghmouri:hal-01973467] résonne fortement avec la mobilisation des « tribus » académiques et le net-activisme conceptualisés par [@pelissier2021], tout en s'inscrivant dans la réorganisation disciplinaire décrite par [@doueihi2015] pour les humanités numériques. Par ailleurs, l'utilisation de la modélisation pour nourrir l'esprit critique face aux controverses [@desfrichesdoria:halshs-03252800] s'articule logiquement avec la modélisation des écosystèmes de connaissances et le design sémantique proposés par [@szoniecky2024], ainsi qu'avec l'exigence d'une éthique de la discussion posée par [@habermas2013]. De plus, nos recherches sur l'hétérogénéité documentaire et les classifications en réseau [@zacklad:hal-02924134] viennent concrétiser les défis de l'IA symbolique et de la structuration des consensus décrits par [@schmid2019] afin de garantir la raison numérique et l'inscription calculable explorées par [@bachimont2020]. Enfin, l'approche par le design pour créer du sens étudiée dans [@desfrichesdoria:hal-02298796] entre en dialogue profond avec l'autopoïèse et les couplages structurels de [@maturana1994], et vient étayer la nécessité de stabiliser le sens via l'opération de phylogenèse numérique postulée par le [@µ2015].

@@ -4,3 +4,6 @@
 **/*.quarto_ipynb
 .DS_Store
 data/InscriptionPiloterEvenements.csv
+key.php
+
+/.luarc.json

@@ -1,0 +1,39 @@
+
+---
+title: "IA Générative et Écosystèmes de Connaissances : Vers une nouvelle narration des événements scientifiques"
+author: Sami Ben Amor
+categories: [Intelligence Artificielle, Écosystèmes socio-communicationnels, Génération de contenu, Éthique des connaissances, Agentivité]
+
+subtitle: ""
+bibliography: referenceAuteurs.bib
+
+
+
+---
+
+
+#### Institut Méditerranéen des Sciences de l'Information et de la Communication
+[{{< fa solid globe >}} https://www.idref.fr/032001924](https://www.idref.fr/032001924) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** Les travaux de Sami Ben Amor explorent l'impact de l'IA générative sur l'exploration et la narration des connaissances [@amor:hal-04405427; @amor:hal-04394408]. En repensant les écosystèmes socio-communicationnels face aux crises et aux mutations technologiques [@gagnebien:hal-04159438], ses recherches alertent sur les enjeux éthiques de l'acquisition des savoirs par l'IA [@amor:hal-04401405], rejoignant les questionnements contemporains sur la raison numérique et l'apprentissage [@romero:hal-04013223; @bachimont2020].
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/54351)
+  - [lien vers le prompt](prompt_sami_ben_amor.txt)
+  - [lien vers la réponse](resume_sami_ben_amor.json)
+
+
+
+**Titre : Écosystèmes socio-communicationnels et IA générative : pour une nouvelle éthique de la narration scientifique**
+
+**Résumé :**
+
+L'émergence des intelligences artificielles génératives bouleverse profondément nos modalités de production, d'exploration et de transmission des connaissances. S'inscrivant dans l'Axe 5 (L'Événement) et l'Axe 6 (Valorisation & Mémoire), cette proposition interroge la manière dont l'IA s'impose comme un nouveau médiateur au sein des écosystèmes socio-communicationnels des événements scientifiques. En nous appuyant sur nos travaux récents concernant la "nouvelle narration des connaissances" par la génération de contenu, nous analyserons les risques d'une délégation sémantique aveugle lors des colloques. Nous démontrerons que l'événement scientifique doit se réinventer comme un espace d'intelligibilité critique, où la co-construction du sens entre humains et agents artificiels est soumise à un filtre éthique rigoureux. L'objectif est de proposer des cadres d'évaluation pour garantir que la mémoire numérique de la recherche (les actes augmentés) conserve son agentivité humaine, tout en exploitant de manière responsable la fluidité informationnelle offerte par ces nouvelles technologies intellectives.
+
+### Résonances Bibliographiques
+
+Les recherches de Sami Ben Amor sur la narration des connaissances par l'IA générative [@amor:hal-04394408] et l'exploration des savoirs dans des mondes génératifs [@amor:hal-04405427] entrent en résonance directe avec le concept de "délégation à la machine" propre à l'IA connexionniste théorisé par LeCun [@lecun2024], tout en soulevant le défi de l'intelligibilité du numérique posé par Bachimont [@bachimont2020]. Sa conceptualisation des nouveaux écosystèmes socio-communicationnels [@gagnebien:hal-04159438] prolonge la modélisation des écosystèmes de connaissances et de l'autopoïèse développée par Szoniecky [@szoniecky2024] et Maturana & Varela [@maturana1994]. Enfin, les inquiétudes qu'il soulève quant au rôle de l'IA dans l'acquisition des connaissances [@amor:hal-04401405] et son implication dans l'enseignement à l'ère numérique [@romero:hal-04013223] appellent à la construction d'une solide éthique de l'IA dans l'évaluation de la recherche [@azeroual2025], s'inscrivant ainsi dans le prolongement contemporain de l'éthique de la discussion d'Habermas [@habermas2013].

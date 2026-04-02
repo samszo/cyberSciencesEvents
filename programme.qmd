@@ -1,0 +1,126 @@
+---
+title: "**PROGRAMME PROVISOIRE** - Journées d’Études : Piloter des événements scientifiques à l’ère des technologies intellectives "
+subtitle: " A 148, Université Paris 8, Saint Denis, France | du jeudi 26 mars 2026 au vendredi 27 mars 2026 "
+toc: true
+---
+
+::: {.callout-warning}
+Ce programme est toujours en cours de discussion avec les intervenants et le comité scientifique
+:::
+::: {.callout-note appearance='minimal'}
+## Processus de génération du programme
+
+Ce programme regroupe les propositions générées à partir des informations des auteurs présentes dans la base de données [Scanr](https://scanr.enseignementsup-recherche.gouv.fr/) et compilées dans le [site expériemental du Laboratoire Paragraphe](https://humanum-p8.fr/paragraphe/s/valorisations) pour plus de détails cf. [Module Omeka S Scanr](https://github.com/samszo/Omeka-S-module-Scanr).
+
+Pour chaque auteur, un prompt est généré et soumis à Google Gemini (cf. [détails du raisonnement](https://gemini.google.com/share/af57cb425119)) pour créer au format [Markdown Quarto](https://quarto.org/) une proposition en lien avec le [contexte du colloque](../auteurs/context_journ_es_d_tudes_piloter_des_v_nements_scientifiques_l_re_des_technologies_intellectives.json).
+
+Le code et l'explication détaillée du processus sont accessibles sur github [{{< fa brands github >}} GitHub](https://github.com/samszo/frontieres-numeriques_2026/blob/main/PROCESSUS_GENERATION.md).
+
+:::
+
+# jeudi 26 mars 2026 
+
+## Accueil - Ouverture des journées d'études : 09 h 00
+
+```{=html}
+<table>
+<caption><h4>Conceptions</h4></caption>
+<thead>
+<tr>
+<th>Horaire</th>
+<th>Type</th>
+<th>Intervenant</th>
+<th>Détails</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09 h 30</td>
+<td>Communication</td>
+<td>Sami Ben Amor - <i>Écosystèmes socio-communicationnels et IA générative : pour une nouvelle éthique de la narration scientifique</i></td>
+<td><a href='auteurs/sami_ben_amor.qmd'>Consulter la proposition</a></td>
+</tr>
+<tr>
+<td>10 h 00</td>
+<td>Communication</td>
+<td>Alexandra Salou - <i>Contrer la « réinformation » académique : Dynamiques d'opinion et éthique de la discussion à l'ère des algorithmes</i></td>
+<td><a href='auteurs/alexandra_salou.qmd'>Consulter la proposition</a></td>
+</tr>
+<tr>
+<td>10 h 30</td>
+<td>Communication</td>
+<td>Cédric Boudjema - <i>Concevoir et archiver l'événement : Ce que la web-éducation muséale enseigne à la valorisation scientifique</i></td>
+<td><a href='auteurs/c_dric_boudjema.qmd'>Consulter la proposition</a></td>
+</tr>
+</tbody>
+</table>
+```
+
+---
+
+# vendredi 27 mars 2026 
+
+```{=html}
+<table>
+<caption><h4>Créations</h4></caption>
+<thead>
+<tr>
+<th>Horaire</th>
+<th>Type</th>
+<th>Intervenant</th>
+<th>Détails</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09 h 00</td>
+<td>Communication</td>
+<td>Samuel Szoniecky - <i>Écosystèmes de connaissances et événements scientifiques : vers un jardin numérique autopoïétique</i></td>
+<td><a href='auteurs/samuel_szoniecky.qmd'>Consulter la proposition</a></td>
+</tr>
+<tr>
+<td>09 h 30</td>
+<td>Communication</td>
+<td>Nicolas Sauret - <i>L'éditorialisation continue de la recherche : de l'écriture collaborative à l'archive autopoïétique</i></td>
+<td><a href='auteurs/nicolas_sauret.qmd'>Consulter la proposition</a></td>
+</tr>
+<tr>
+<td>10 h 00</td>
+<td>Communication</td>
+<td>Orélie Desfriches Doria - <i>« Publicize or Perish » à l'ère de l'IA : Modélisation des controverses et design sémantique pour l'évaluation des événements scientifiques</i></td>
+<td><a href='auteurs/or_lie_desfriches_doria.qmd'>Consulter la proposition</a></td>
+</tr>
+</tbody>
+</table>
+```
+
+---
+
+#  
+
+```{=html}
+<table>
+<caption><h4>Expériementations</h4></caption>
+<thead>
+<tr>
+<th>Horaire</th>
+<th>Type</th>
+<th>Intervenant</th>
+<th>Détails</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09 h 00</td>
+<td>Communication</td>
+<td>María Inés Laitano - <i>L’événement scientifique accessible : Dépasser les standards pour un design inclusif des technologies intellectives</i></td>
+<td><a href='auteurs/mar_a_in_s_laitano.qmd'>Consulter la proposition</a></td>
+</tr>
+</tbody>
+</table>
+```
+
+---
+
+## Synthèse des travaux - Clôture : 09 h 30
+

@@ -1,0 +1,39 @@
+---
+title: "L’événement scientifique accessible : Dépasser les standards pour un design inclusif des technologies intellectives"
+author: María Inés Laitano
+categories: [Accessibilité numérique, Design inclusif, Éthique de la discussion, Modes d'existence]
+
+subtitle: "« Publicize or Perish » à l'ère de l'IA : Modélisation des controverses et design sémantique pour l'évaluation des événements scientifiques"
+bibliography: referenceAuteurs.bib
+
+
+---
+
+#### Laboratoire paragraphe
+[{{< fa solid globe >}} https://www.idref.fr/190984295](https://www.idref.fr/190984295) [{{< fa solid globe >}} https://orcid.org/0000-0002-3794-7383](https://orcid.org/0000-0002-3794-7383) [{{< fa solid globe >}} https://hal.science/search/index/?q=authIdHal_s:maria-ines-laitano](https://hal.science/search/index/?q=authIdHal_s:maria-ines-laitano) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** Les travaux de María Inés Laitano mettent en lumière l'impératif de l'accessibilité numérique et du design inclusif dans l'enseignement et la diffusion des savoirs [@laitano:hal-03963297; @laitano:hal-04439098]. En soulignant les limites des standards techniques stricts [@laitano:halshs-04436802], elle plaide pour une intégration des publics vulnérables via des dispositifs numériques adaptés et participatifs [@laitano:hal-01114180; @laitano:hal-02108012].
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/85516)
+  - [lien vers le prompt](prompt_mar_a_in_s_laitano.txt)
+  - [lien vers la réponse](resume_mar_a_in_s_laitano.json)
+
+
+
+**Titre : L’événement scientifique accessible : Dépasser les standards pour un design inclusif des technologies intellectives**
+
+**Résumé :**
+À l'ère des technologies intellectives, les événements scientifiques se reconfigurent comme des systèmes autopoïétiques fluides. Toutefois, cette complexité risque d'exclure les chercheurs et publics en situation de handicap si l'accessibilité n'est pas pensée dès la conception (Axe 1) et lors de l'expérience en direct (Axe 5). Cette proposition interroge la place de la vulnérabilité dans la "noosphère" académique. En nous appuyant sur les limites des standards d'accessibilité stricts (de type WCAG) face à la réalité des usages, nous proposerons de passer d'une approche purement normative (IA symbolique) à une véritable "éthique de l'inclusion". Il s'agira d'analyser comment concevoir les plateformes d'appel à communications, les outils d'évaluation et les interfaces de diffusion (actes augmentés) selon les principes du design pour tous. L'objectif est de garantir que les nouveaux couplages entre intentions humaines et agents artificiels favorisent une participation équitable, transformant l'événement en un "commun culturel" où chaque mode d'existence trouve sa résonance.
+
+### Résonances Bibliographiques
+
+La perspective de María Inés Laitano enrichit fondamentalement le cadre conceptuel de la conférence en y injectant la dimension cruciale de l'inclusion :
+
+*   **Éthique et Vulnérabilité face à l'IA :** Les réflexions de Laitano sur les orientations pratiques de l'accessibilité numérique à l'université [@laitano:hal-04439098; @laitano:hal-03963297] doivent être articulées avec l'éthique de l'intelligence artificielle dans l'évaluation de la recherche [@azeroual2025]. Une véritable éthique de la discussion [@habermas2013] ne peut s'accomplir sans garantir l'accès perceptif et cognitif aux plateformes de débat pour les personnes malvoyantes ou neuro-atypiques [@marchetti:halshs-04437939].
+*   **Limites de la Raison Numérique et des Ontologies :** L'approche critique de Laitano sur les limites des standards d'accessibilité [@laitano:halshs-04436802] fait écho à la dialectique entre l'IA symbolique régie par des règles strictes [@schmid2019] et la nécessité d'une intelligibilité du numérique qui s'adapte au sensible [@bachimont2020]. Les interfaces ne doivent pas être de simples indexations logiques [@badiou2018] mais des médiations intuitives [@bachelard1994], comme illustré par le développement d'audiojeux ou d'hypermédias inclusifs [@laitano:hal-01114180; @laitano:hal-02108012].
+*   **Modes d'existence et Noosphère Accessible :** Pour que l'événement scientifique devienne une "Noosphère" vibrante [@morin1995] et mobilise efficacement les tribus académiques via le net-activisme [@pelissier2021], l'anthropologie des modes d'existence [@latour2012] doit inclure le handicap. L'accessibilité garantit que l'opération de phylogenèse numérique et de mémorisation des savoirs [@µ2015] reste un "commun" ouvert à tous, y compris dans ses dimensions les plus expérimentales, comme la remédiatisation de la littérature numérique [@bootz:hal-02105033].

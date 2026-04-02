@@ -1,0 +1,37 @@
+---
+title: "Contrer la « réinformation » académique : Dynamiques d'opinion et éthique de la discussion à l'ère des algorithmes"
+author: Alexandra Salou
+categories: [Désinformation, Réseaux socionumériques, Éthique de la discussion, IA connexionniste, Algorithmes de recommandation]
+subtitle: "Écosystèmes socio-communicationnels et IA générative : pour une nouvelle éthique de la narration scientifique"
+bibliography: referenceAuteurs.bib
+
+
+---
+
+
+#### Institut Méditerranéen des Sciences de l'Information et de la Communication
+[{{< fa solid globe >}} https://www.idref.fr/280728492](https://www.idref.fr/280728492) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** Cette intervention interroge l'impact des algorithmes de recommandation sur la formation des consensus scientifiques, en s'appuyant sur l'éthique de la discussion de @habermas2013. Face au risque d'homogénéisation induit par l'IA connexionniste (@lecun2024), elle propose de repenser les événements scientifiques comme des écosystèmes critiques capables de contrer la désinformation et de préserver la diversité au sein de la noosphère (@morin1995).
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/58460)
+  - [lien vers le prompt](prompt_alexandra_salou.txt)
+  - [lien vers la réponse](resume_alexandra_salou.json)
+
+
+
+**Titre : Contrer la « réinformation » académique : Dynamiques d'opinion et éthique de la discussion à l'ère des algorithmes**
+
+**Résumé :**
+À l'ère des technologies intellectives, la diffusion et l'évaluation des savoirs sont de plus en plus médiatisées par des algorithmes de recommandation. S'inspirant de mes recherches sur la désinformation, l'influence des leaders d'opinion et l'homogénéisation idéologique sur les plateformes socionumériques, cette proposition analyse les risques de « réinformation » et de polarisation au sein même de l'arène scientifique. Lorsque la sélection des communications (Axe 3) ou le net-activisme académique (Axe 2) sont régis par des réseaux de neurones favorisant l'engagement, comment éviter l'enfermement de la communauté dans des bulles épistémiques ? Nous proposerons une approche par « méthodes mixtes » pour auditer ces couplages algorithmiques et leurs effets sur l'attention des chercheurs. L'enjeu est de restaurer un espace de débat ouvert et transparent lors de l'événement (Axe 5), en réaffirmant le rôle de l'IA symbolique pour la clarté sémantique, face à l'opacité de l'IA connexionniste. Il s'agira ainsi de définir des garde-fous communicationnels et éthiques garantissant que la conférence demeure un lieu de confrontation plurielle et d'autopoïèse intellectuelle, plutôt qu'une simple caisse de résonance automatisée de la noosphère.
+
+### Résonances Bibliographiques
+
+* **Homogénéisation algorithmique et IA connexionniste :** Mes travaux sur l'homogénéisation des opinions politiques via les systèmes de recommandation (@salou:hal-03695063) et les usages de l'IA chez les étudiants (@salou:hal-04827953) dialoguent avec le concept d'IA connexionniste et d'apprentissage machine de @lecun2024. Ils soulignent les limites d'une raison strictement numérique telle que problématisée par @bachimont2020.
+* **Désinformation, réinformation et éthique :** L'étude de la « réinformation » comme objet frontière et menace pour la démocratie (@lukasik:hal-04827795, @salou:halshs-03195189) vient éprouver concrètement l'éthique de la discussion de @habermas2013. Ces dérives rendent impérative l'élaboration d'une éthique de l'intelligence artificielle pour l'évaluation de la recherche, en phase avec les propositions de @azeroual2025.
+* **Dynamiques de réseaux et Noosphère :** L'analyse par méthodes mixtes de la pluralité des opinions sur les réseaux sociaux (@salou:hal-03175210) et l'influence des leaders d'opinion (@salou:hal-04394270) éclairent la manière dont se mobilisent les tribus académiques (@pelissier2021) et circulent les existences informationnelles au sein de la noosphère définie par @morin1995.

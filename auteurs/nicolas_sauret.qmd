@@ -1,0 +1,44 @@
+
+---
+title: "L'éditorialisation continue de la recherche : de l'écriture collaborative à l'archive autopoïétique"
+author: Nicolas Sauret
+categories: [Écriture numérique, Éditorialisation, Humanités numériques, Archive vivante, ISIDORE]
+
+subtitle: "Écosystèmes de connaissances et événements scientifiques : vers un jardin numérique autopoïétique"
+bibliography: referenceAuteurs.bib
+
+
+
+---
+
+
+#### Laboratoire paragraphe
+[{{< fa solid globe >}} https://www.idref.fr/241664284](https://www.idref.fr/241664284) [{{< fa solid globe >}} https://orcid.org/0000-0001-7516-3427](https://orcid.org/0000-0001-7516-3427) [{{< fa solid globe >}} https://hal.science/search/index/?q=authIdHal_s:nicolas-sauret](https://hal.science/search/index/?q=authIdHal_s:nicolas-sauret) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** 
+Cette intervention interroge l'éditorialisation des événements scientifiques par le prisme de l'écriture numérique collaborative. En croisant les réflexions sur l'inscription calculable [@bachimont2020] et la modélisation des connaissances [@szoniecky2024], nous montrerons comment la stabilisation des savoirs permet de transformer une mémoire éphémère en une archive autopoïétique, participant à la phylogenèse numérique [@µ2015] de la recherche.
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/85513)
+  - [lien vers le prompt](prompt_nicolas_sauret.txt)
+  - [lien vers la réponse](resume_nicolas_sauret.json)
+
+
+
+**Titre : L'éditorialisation continue de la recherche : de l'écriture collaborative à l'archive autopoïétique**
+
+**Résumé :**
+
+S'inscrivant dans l'Axe 6 (Valorisation & Mémoire), cette proposition explore la façon dont les nouvelles technologies d'écriture transforment la publication et l'archivage des événements scientifiques. À partir de l'analyse d'outils d'édition en environnement numérique tels que Stylo [@vitalirosati:hal-04336752] et Pink my pad [@sauret:halshs-04471220v1], nous examinerons le glissement des actes figés vers un processus d'éditorialisation continue. L'événement scientifique devient un espace d'écriture collective et protocolisée s'apparentant à une "gittérature" académique [@monjour:hal-03962836], un écosystème où chercheurs et agents artificiels dialoguent pour structurer le sens. De plus, l'intégration de ces documents dans des écosystèmes de découverte sémantique comme ISIDORE [@pouyllau:hal-05202136 ; @pouyllau:hal-03932033] permet d'irriguer activement les réseaux de chercheurs. Nous démontrerons que ces environnements ne sont pas de simples dispositifs techniques, mais des "objets écosophiques" [@krummeich:halshs-04019870] qui, portés par une nouvelle épistémologie du modèle [@sauret:hal-03963579], refondent la constitution, la diffusion et la mémoire du savoir collaboratif.
+
+### Résonances Bibliographiques
+
+Les travaux de Nicolas Sauret sur l'épistémologie de la modélisation informatique [@sauret:hal-03963579] et les objets écosophiques que sont les *notebooks* [@krummeich:halshs-04019870] entrent en résonance directe avec l'exigence d'intelligibilité de la "raison numérique" et de l'inscription calculable définies par Bruno Bachimont [@bachimont2020]. 
+
+Par ailleurs, son implication dans la conception et l'analyse de l'écosystème de recherche ISIDORE [@pouyllau:hal-05202136 ; @pouyllau:hal-03932033] matérialise techniquement l'accès à la "Noosphère" théorisée par Edgar Morin [@morin1995] ainsi que la modélisation sémantique des écosystèmes de connaissances avancée par Samuel Szoniecky [@szoniecky2024]. 
+
+Enfin, ses multiples expérimentations autour de l'écriture numérique scientifique et littéraire (Stylo, Pink my pad, Gittérature) [@vitalirosati:hal-04336752 ; @monjour:hal-03962836 ; @sauret:halshs-04471220v1] proposent des modélisations concrètes de la "phylogenèse numérique" pensée par le µGroupe [@µ2015]. Elles révèlent comment l'archive numérique [@monjour:halshs-04059659] et le livre de demain [@audet:hal-01922682] s'émancipent de la matière solide pour devenir des entités fluides [@mercuriali2018], co-construites par une hybridation des modes d'existences entre l'humain et l'agent computationnel [@latour2012].

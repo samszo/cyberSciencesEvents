@@ -1,0 +1,14 @@
+---
+title: "Auteurs"
+listing:
+  contents:
+    - "auteurs/*.qmd"
+  type: grid
+  sort: "title"
+  sort-ui: true
+  filter-ui: true
+  page-size: 40  
+  categories: true
+  fields: [author, categories]
+---
+Découvrez les auteurs intervenants dans la journée d'étude.

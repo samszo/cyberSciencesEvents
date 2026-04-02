@@ -1,0 +1,42 @@
+---
+title: "De l'exposition muséale à l'événement scientifique : Standardisation et réseaux de la connaissance numérique"
+author: Cédric Boudjema
+categories: [Médiation numérique, Valorisation des savoirs, Mémoire, Éducation en ligne, Dispositifs socio-techniques]
+
+subtitle: "Contrer la « réinformation » académique : Dynamiques d'opinion et éthique de la discussion à l'ère des algorithmes"
+bibliography: referenceAuteurs.bib
+
+
+
+---
+
+#### Paris 8 University Université Paris 8 Vincennes – Saint-Denis
+[{{< fa solid globe >}} https://www.idref.fr/15874330X](https://www.idref.fr/15874330X) 
+
+
+::: {.callout-note appearance='minimal'}
+**Résumé :** 
+Cédric Boudjema interroge la numérisation de la transmission des savoirs en analysant la tension entre standardisation et logiques réticulaires au sein des dispositifs en ligne [@boudjema:hal-04353234]. Ses approches comparatistes des plateformes patrimoniales [@boudjema:hal-04353387 ; @boudjema:hal-04361309] éclairent la manière dont les institutions structurent, archivent et partagent les connaissances, offrant un prisme pertinent pour repenser la mémoire et la médiation numérique des événements scientifiques contemporains.
+:::
+
+### Proposition générée
+
+  - [lien vers les données](https://paragraphe.humanum-p8.fr/s/valorisations/item/85499)
+  - [lien vers le prompt](prompt_c_dric_boudjema.txt)
+  - [lien vers la réponse](resume_c_dric_boudjema.json)
+
+
+
+**Titre : Concevoir et archiver l'événement : Ce que la web-éducation muséale enseigne à la valorisation scientifique**
+
+**Résumé :**
+
+L'organisation et la captation d'événements scientifiques partagent de nombreuses similitudes structurelles avec la scénarisation numérique du savoir muséal. En nous appuyant sur nos recherches portant sur l'éducation muséale en ligne et la typologie des offres web, cette intervention propose de considérer la plateforme d'un événement scientifique comme un véritable « espace d'exposition » cognitif et médiatif. Nous analyserons comment la dialectique entre la coopération réticulaire (qui favorise l'intelligence collective de la communauté) et la standardisation des formats (nécessaire à l'interopérabilité sémantique) façonne la production et la réception des savoirs. De l'inscription spontanée du public — rappelant la fonction du livre d'or muséal — à la stabilisation des actes scientifiques augmentés, nous montrerons comment structurer une phylogenèse numérique efficace. L'objectif est d'optimiser l'ergonomie cognitive (via des modèles évaluatifs comme le Carré PADI) pour garantir que la mémoire de l'événement scientifique dépasse le simple archivage institutionnel, devenant ainsi une ressource active, fluide et continuellement réappropriée par la noosphère académique.
+
+### Résonances Bibliographiques
+
+Les travaux de Cédric Boudjema offrent un regard croisé particulièrement stimulant avec le cadre conceptuel de la conférence, en transposant les enjeux de la muséologie numérique à ceux de la communication scientifique :
+
+*   **Écosystèmes de connaissances et Autopoïèse :** L'analyse structurelle de l'offre en ligne des musées internationaux [@boudjema:hal-04353387] et la question de l'identité véhiculée par ces sites [@boudjema:hal-04353198] résonnent avec la modélisation des écosystèmes de connaissances de @szoniecky2024. Le musée numérique, tout comme l'événement scientifique, opère comme un système autopoïétique complexe tel que défini par @maturana1994, liant institutions, savoirs et internautes.
+*   **Standardisation Symbolique vs. Fluidité Connexionniste :** La tension identifiée par Boudjema entre savoir réticulaire, coopération et standardisation dans l'éducation en ligne [@boudjema:hal-04353234] illustre parfaitement la dialectique entre la rigidité de l'IA Symbolique (thésaurus, ontologies visées par @schmid2019) et la délégation sémantique ou fluidité de l'IA Connexionniste. Cette dynamique met à l'épreuve l'intelligibilité et la raison numérique théorisées par @bachimont2020.
+*   **Mémoire, Traces et Phylogenèse Numérique :** L'intérêt porté aux écrits spontanés du public (le livre d'or) [@Boudj2004] et la catégorisation des typologies web via le Carré PADI [@boudjema:hal-03400170 ; @boudjema:hal-04361309] nourrissent directement l'Axe 6 de la conférence. Ces pratiques de captation et d'évaluation rejoignent la nécessité de penser une "phylogenèse numérique" (@µ2015) pour stabiliser le sens et archiver les existences informationnelles qui irriguent la noosphère de @morin1995.
